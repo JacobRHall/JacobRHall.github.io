@@ -23,7 +23,7 @@ permalink: /research/
 
 **The Dark Side of Nation Building: The Reconquista and the Spanish Inquisition** (with Patrick Fitzsimmons)
 
-**Dark Age Decline: The Fall of the Roman Empire or the Rise of Islam**
+**Dark Age Decline: The Fall of the Roman Empire or the Rise of Islam?**
 
 **Policy, Printing, and Linguistic Homogenization: The Case of Early Modern French**
 (with Alexander Taylor)
