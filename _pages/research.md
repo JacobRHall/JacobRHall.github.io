@@ -4,7 +4,7 @@ date:   2023-11-25 16:00:00 -0500
 permalink: /research/
 ---
 
-<img src="assets\images\mondrian.png">
+![Mondrian](/assets/images/\mondrian.png ""Mondrian")
 
 ## Working Papers and Research in Progress
 
