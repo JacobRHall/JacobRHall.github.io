@@ -8,5 +8,10 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
+  - title: "PISM"
+    url: https://economics.sas.upenn.edu/pism
  # - title: "Resources"
  #   url: /resources/
+  # - title: "Resources"
+ #   url: /resources/
+

@@ -8,10 +8,10 @@ permalink: /research/
 
 ## Working Papers and Research in Progress
 
-** [Itinerant Kings]\\
+** Itinerant Kings
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)**
-(with Mark Koyama and Desiree Desierto)\\
+(with Mark Koyama and Desiree Desierto)\
 
 **[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
 <ins>Presentations</ins>: GMU, SEA
@@ -23,8 +23,8 @@ permalink: /research/
 
 ## Refereed Publications
 
-** From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar\\
+**From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar\\
 Econ Journal Watch, 2022
 
-** Classical Liberals on ‘Social Justice’ (with Marcus Shera)\\
+**Classical Liberals on ‘Social Justice’ (with Marcus Shera)\\
 Economic Affairs, 2020
