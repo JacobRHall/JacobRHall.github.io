@@ -16,7 +16,7 @@ permalink: /research/
 
 **[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**
 
-**[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** (with Vincent Geloso and Patrick Fitzsimmons).
+**[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** (with Vincent Geloso and Patrick Fitzsimmons) \\
 <sub>**Currently Under Review.**
 
 ## Works in Progress
