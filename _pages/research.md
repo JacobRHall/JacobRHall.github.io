@@ -1,6 +1,6 @@
 ---
 title:  "Research"
-date:   2023-9-19 16:00:00 -0500
+date:   2023-11-25 16:00:00 -0500
 permalink: /research/
 ---
 
@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Working Papers and Research in Progress
 
-** Itinerant Kings
+**Itinerant Kings
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)**
 (with Mark Koyama and Desiree Desierto)\
@@ -23,8 +23,8 @@ permalink: /research/
 
 ## Refereed Publications
 
-**From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar\\
+**From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar**\\
 Econ Journal Watch, 2022
 
-**Classical Liberals on ‘Social Justice’ (with Marcus Shera)\\
+**Classical Liberals on ‘Social Justice’** (with Marcus Shera)\\
 Economic Affairs, 2020
