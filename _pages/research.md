@@ -4,11 +4,11 @@ date:   2023-11-25 16:00:00 -0500
 permalink: /research/
 ---
 
-![Mondrian](/assets/images/\mondrian.png ""Mondrian")
+![Mondrian](/assets/images/\mondrian2.png ""Mondrian")
 
 ## Working Papers and Research in Progress
 
-**Itinerant Kings
+**Itinerant Kings**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)**
 (with Mark Koyama and Desiree Desierto)\
