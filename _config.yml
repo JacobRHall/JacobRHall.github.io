@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Jacob R. Hall"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jacob Hall"
+name                     : "Jacob R. Hall"
 description              : "The official website of Jacob R. Hall"
 url                      : "https://jacobrhall.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
