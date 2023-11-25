@@ -6,22 +6,27 @@ permalink: /research/
 
 ![Mondrian](/assets/images/\mondrian2.png ""Mondrian")
 
-## Working Papers and Research in Progress
+## Working Papers
 
 **Itinerant Kings**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)**
 (with Mark Koyama and Desiree Desierto) \\
-<sub>**Under Review**\\
-<ins>Presentations</ins>: GMU, SEA
+<sub>**Currently Under Review.**\\
 
 **[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
-<ins>Presentations</ins>: GMU, SEA
 
+**[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** (with Vincent Geloso and Patrick Fitzsimmons).
+<sub>**Currently Under Review.**\\ 
+
+## Works in Progress
+
+**The Dark Side of Nation Building: The Reconquista and the Spanish Inquisition** (with Patrick Fitzsimmons)\\
+
+**Dark Age Decline: The Fall of the Roman Empire or the Rise of Islam\\
 
 **Policy, Printing, and Linguistic Homogenization: The Case of Early Modern French**
 (with Alexander Taylor)\\
-<ins>Presentations</ins>: SEA 
 
 ## Refereed Publications
 
