@@ -4,7 +4,7 @@ date:   2023-9-19 16:00:00 -0500
 permalink: /research/
 ---
 
-!["Arithmetic" on Tapestry](/assets/images/arithmetic_tapestry.jpeg ""Arithmetic" on Tapestry")
+<img src="assets\images\mondrian.png">
 
 ## Working Papers and Research in Progress
 
