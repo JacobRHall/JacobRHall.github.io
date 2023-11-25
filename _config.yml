@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:jhall26@sas.upenn.edu"
+     # url: "mailto:jhall26@sas.upenn.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -125,10 +125,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JacobRHall"
-    - label: "SSRN"
-      icon: "fab fa-fw fa-ssrn"
-      url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2710932"
-
+      
 # Site Footer
 footer:
   links:
