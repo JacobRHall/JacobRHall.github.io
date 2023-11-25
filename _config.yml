@@ -125,9 +125,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JacobRHall"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "SSRN"
+      icon: "fab fa-fw fa-ssrn"
+       url: "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2710932"
 
 # Site Footer
 footer:
