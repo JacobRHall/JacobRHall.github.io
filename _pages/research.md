@@ -11,7 +11,9 @@ permalink: /research/
 **Itinerant Kings**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)**
-(with Mark Koyama and Desiree Desierto)\
+(with Mark Koyama and Desiree Desierto)
+<sub> **Under Review**\\
+<ins>Presentations</ins>: GMU, SEA
 
 **[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
 <ins>Presentations</ins>: GMU, SEA
