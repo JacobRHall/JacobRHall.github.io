@@ -1,6 +1,6 @@
 ---
 title:  "Teaching"
-date:   2023-9-11 16:00:00 -0500
+date:   2023-11-25 16:00:00 -0500
 permalink: /teaching/
 ---
 
