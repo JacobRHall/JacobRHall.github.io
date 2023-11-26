@@ -9,6 +9,9 @@ permalink: /links/
 ## Network Analysis in R
 
 ## Economic History
+* [Economic History Association](https://eh.net)
+* [Economic History Society](https://ehs.org.uk)
+* [Broadstreet Blog](https://broadstreet.blog)
 
 ## Medieval Data Sources
 
