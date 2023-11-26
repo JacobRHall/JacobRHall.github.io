@@ -8,6 +8,10 @@ permalink: /research/
 
 ## Working Papers
 
+**Itinerant Kings**
+
+**[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**
+
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)**
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com)) \\
 <sub>**Currently Under Review.**
@@ -15,9 +19,6 @@ permalink: /research/
 **[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
 <sub>**Currently Under Review.**
 
-**Itinerant Kings**
-
-**[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**
 
 ## Works in Progress
 
