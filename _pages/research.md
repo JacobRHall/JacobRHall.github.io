@@ -4,7 +4,7 @@ date:   2023-11-25 16:00:00 -0500
 permalink: /research/
 ---
 
-![Picasso](/assets/images/\bulls.png)
+![Picasso](/assets/images/\bulls.jpg)
 
 ## Working Papers
 
