@@ -10,8 +10,13 @@ main:
     url: /teaching/
   - title: "PISM"
     url: https://economics.sas.upenn.edu/pism
- # - title: "Resources"
+  - title: "Links"
+    url: /links/
+  # - title: "Resources"
  #   url: /resources/
   # - title: "Resources"
  #   url: /resources/
+  # - title: "Resources"
+ #   url: /resources/
+
 
