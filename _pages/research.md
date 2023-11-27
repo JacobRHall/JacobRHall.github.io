@@ -10,7 +10,7 @@ permalink: /research/
 
 **Itinerant Kings**
 
-**[Travel Speed over the Longue Durée](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**
+**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com)) \\
