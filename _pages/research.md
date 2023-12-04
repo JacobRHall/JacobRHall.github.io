@@ -28,7 +28,7 @@ permalink: /research/
 
 **Dark Age Decline: The Fall of the Roman Empire or the Rise of Islam?**
 
-**Policy, Printing, and Linguistic Homogenization: The Case of Early Modern French** \\
+**The King's French** \\
 (with [Alexander Taylor](https://alexntaylor.github.io))
 
 ## Refereed Publications
