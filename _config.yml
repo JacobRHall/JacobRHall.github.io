@@ -101,6 +101,9 @@ analytics:
     tracking_id          : G-Q77K7YLSVZ
     anonymize_ip         : # true, false (default)
 
+#Google Analytics
+google_analytics:G-Q77K7YLSVZ
+
 
 # Site Author
 author:
