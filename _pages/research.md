@@ -27,7 +27,7 @@ permalink: /research/
 **The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com))
 
-**The End of Antiquity: The Pirenne Thesis**
+**The End of Antiquity: The Pirenne Thesis Reconsidered**
 
 **The King's French** \\
 (with [Alexander Taylor](https://alexntaylor.github.io))
