@@ -10,7 +10,8 @@ permalink: /research/
 
 **Itinerant Kings**
 
-**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**
+**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
+<sub>**Currently Under Review.**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com)) \\
@@ -23,10 +24,10 @@ permalink: /research/
 
 ## Works in Progress
 
-**The Dark Side of Nation Building: The Reconquista and the Spanish Inquisition** \\
+**The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com))
 
-**Dark Age Decline: The Fall of the Roman Empire or the Rise of Islam?**
+**The End of Antiquity: The Pirenne Thesis Reconsidered**
 
 **The King's French** \\
 (with [Alexander Taylor](https://alexntaylor.github.io))
