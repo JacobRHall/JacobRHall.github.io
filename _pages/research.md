@@ -24,13 +24,13 @@ permalink: /research/
 
 ## Works in Progress
 
+** A Theory of Special Legislation and Its Decline**\\
+(with [Slade Mendenhall](https://slademendenhall.com))
+
 **The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com))
 
 **The End of Antiquity: The Pirenne Thesis Reconsidered**
-
-**The King's French** \\
-(with [Alexander Taylor](https://alexntaylor.github.io))
 
 ## Refereed Publications
 
