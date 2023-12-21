@@ -24,7 +24,7 @@ permalink: /research/
 
 ## Works in Progress
 
-** A Theory of Special Legislation and Its Decline**\\
+**A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
 **The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
