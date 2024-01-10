@@ -8,14 +8,14 @@ permalink: /research/
 
 ## Working Papers
 
-**Itinerant Kings**
+**[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
+<sub>**Currently Under Review.**
 
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
 <sub>**Currently Under Review.**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
-(with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com)) \\
-<sub> **Currently Under Review.**
+(with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))
 
 **[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** \\
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
@@ -26,9 +26,11 @@ permalink: /research/
 
 **A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com))
+<sub>**Presenting at Public Choice 2024.**
 
 **The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com))
+<sub>**Presenting at Public Choice 2024.**
 
 **The End of Antiquity: The Pirenne Thesis Reconsidered**
 
