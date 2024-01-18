@@ -4,6 +4,8 @@ date:   2023-11-26 16:00:00 -0500
 permalink: /links/
 ---
 
+![](/assets/images/\exploring.png)
+
 ## Economic History
 * [Economic History Association](https://eh.net)
 * [Economic History Society](https://ehs.org.uk)
