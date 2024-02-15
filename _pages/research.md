@@ -9,7 +9,7 @@ permalink: /research/
 ## Working Papers
 
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
-<sub>**Currently Under Review.**
+
 
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
 <sub>**Currently Under Review.**
@@ -26,7 +26,6 @@ permalink: /research/
 
 **A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com))
-<sub>**Presenting at Public Choice 2024.**
 
 **The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com))
