@@ -28,9 +28,9 @@ permalink: /research/
 
 **The Rise of Islam and the The End of Antiquity**
 
-**The Dark Side of Nation Building: The Case of the Spanish Inquisition** \\
-(with [Patrick Fitzsimmons](https://www.patrubenfitz.com))
-<sub>**Presenting at Public Choice 2024.**
+**The Spanish Inquisition** \\
+(with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and Henry Thompson)
+
 
 
 ## Refereed Publications
