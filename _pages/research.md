@@ -1,6 +1,6 @@
 ---
 title:  "Research"
-date:   2023-12-12 16:00:00 -0500
+date:   2024-09-03 16:00:00 -0500
 permalink: /research/
 ---
 
@@ -24,20 +24,18 @@ permalink: /research/
 **A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
-<button class="abstract-button" onclick="toggleAbstract()">Show Abstract</button>
-<div id="abstract" style="display:none;">
+<button id="special-legislation-button" class="abstract-button" onclick="toggleAbstract('special-legislation')">Show Abstract</button>
+<div id="special-legislation" style="display:none;">
   <p>For roughly 800 years, "legislation" often referred to special legislation—narrow bills tailored to the needs of specific individuals, firms, or properties. General laws were viewed with skepticism. Today, the opposite is true: broad laws are considered essential, and most states have banned special bills. This article reinterprets this historical shift, arguing that special legislation and the modern administrative state are substitutes. It contends that the transition from special to general legislation, often framed in terms of anti-corruption, was actually driven by politicians’ desires to create and extract rents facilitated by the 19th-century transportation boom. Thus, the rise of the administrative state and the expansion of American state capacity are seen as endogenous outcomes of industrialization.</p>
 </div>
 
 **Islam, Trade, and the Rise of Northwestern Europe**\\
 (with [Marcus Shera](https://www.marcusshera.com))
 
-<button class="abstract-button" onclick="toggleAbstract()">Show Abstract</button>
-<div id="abstract" style="display:none;">
-  <p>The expansion of the Islamic Caliphate in the seventh century cut many European cities oL from their trade partners in the Middle East and North Africa and ultimately redirected Mediterranean trade away from Western Europe. Taking a “market access” approach and by employing diLerence-in-diLerences empirical strategy, we show that the Islamic trade shock altered the spatial equilibrium of European urbanization in favor of northern Europe. We provide quantitative evidence for the validity, on some margins, of the often-debated “Pirenne Thesis.”</p>
+<button id="islam-trade-button" class="abstract-button" onclick="toggleAbstract('islam-trade')">Show Abstract</button>
+<div id="islam-trade" style="display:none;">
+  <p>The expansion of the Islamic Caliphate in the seventh century cut many European cities off from their trade partners in the Middle East and North Africa and ultimately redirected Mediterranean trade away from Western Europe. Taking a “market access” approach and by employing difference-in-differences empirical strategy, we show that the Islamic trade shock altered the spatial equilibrium of European urbanization in favor of northern Europe. We provide quantitative evidence for the validity, on some margins, of the often-debated “Pirenne Thesis.”</p>
 </div>
-
-
 
 **The Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and Henry Thompson)
@@ -72,9 +70,9 @@ permalink: /research/
 </style>
 
 <script>
-  function toggleAbstract() {
-    var abstractDiv = document.getElementById('abstract');
-    var button = document.querySelector('.abstract-button');
+  function toggleAbstract(id) {
+    var abstractDiv = document.getElementById(id);
+    var button = document.getElementById(id + '-button');
     
     if (abstractDiv.style.display === 'none') {
       abstractDiv.style.display = 'block';
