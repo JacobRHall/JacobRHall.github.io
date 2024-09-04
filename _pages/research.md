@@ -26,6 +26,11 @@ permalink: /research/
 **A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
+<button class="abstract-button" onclick="toggleAbstract()">Show Abstract</button>
+<div id="abstract" style="display:none;">
+  <p>For roughly 800 years, "legislation" often referred to special legislation—narrow bills tailored to the needs of specific individuals, firms, or properties. General laws were viewed with skepticism. Today, the opposite is true: broad laws are considered essential, and most states have banned special bills. This article reinterprets this historical shift, arguing that special legislation and the modern administrative state are substitutes. It contends that the transition from special to general legislation, often framed in terms of anti-corruption, was actually driven by politicians’ desires to create and extract rents facilitated by the 19th-century transportation boom. Thus, the rise of the administrative state and the expansion of American state capacity are seen as endogenous outcomes of industrialization.</p>
+</div>
+
 **The Rise of Islam and the The End of Antiquity**
 
 **The Spanish Inquisition** \\
