@@ -29,7 +29,15 @@ permalink: /research/
   <p>For roughly 800 years, "legislation" often referred to special legislation—narrow bills tailored to the needs of specific individuals, firms, or properties. General laws were viewed with skepticism. Today, the opposite is true: broad laws are considered essential, and most states have banned special bills. This article reinterprets this historical shift, arguing that special legislation and the modern administrative state are substitutes. It contends that the transition from special to general legislation, often framed in terms of anti-corruption, was actually driven by politicians’ desires to create and extract rents facilitated by the 19th-century transportation boom. Thus, the rise of the administrative state and the expansion of American state capacity are seen as endogenous outcomes of industrialization.</p>
 </div>
 
-**The Rise of Islam and the The End of Antiquity**
+**The Rise of Islam and the The End of Antiquity**\\
+(with [Marcus Shera](https://www.marcusshera.com))
+
+<button class="abstract-button" onclick="toggleAbstract()">Show Abstract</button>
+<div id="abstract" style="display:none;">
+  <p>The expansion of the Islamic Caliphate in the seventh century cut many European cities oL from their trade partners in the Middle East and North Africa and ultimately redirected Mediterranean trade away from Western Europe. Taking a “market access” approach and by employing diLerence-in-diLerences empirical strategy, we show that the Islamic trade shock altered the spatial equilibrium of European urbanization in favor of northern Europe. We provide quantitative evidence for the validity, on some margins, of the often-debated “Pirenne Thesis.”</p>
+</div>
+
+
 
 **The Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and Henry Thompson)
@@ -40,7 +48,7 @@ permalink: /research/
 *Econ Journal Watch*, 2022
 
 **[Classical Liberals on ‘Social Justice’](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428)** \\
-(with [Marcus Shera](https://theeconplayground.com))\\
+(with [Marcus Shera](https://www.marcusshera.com))\\
 *Economic Affairs*, 2020
 
 <style>
