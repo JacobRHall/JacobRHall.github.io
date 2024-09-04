@@ -38,7 +38,7 @@ permalink: /research/
 </div>
 
 **The Spanish Inquisition** \\
-(with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and Henry Thompson)
+(with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and [Henry Thompson](https://www.henryathompson.com))
 
 ## Refereed Publications
 
