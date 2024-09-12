@@ -6,7 +6,7 @@ main:
     url: /assets/documents/Hall_CV.pdf
   - title: "JMP"
     url: http://dx.doi.org/10.2139/ssrn.4689473
-  -title: "Research"
+  - title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
