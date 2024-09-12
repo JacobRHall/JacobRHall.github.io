@@ -27,7 +27,7 @@ permalink: /research/
 ## Selected Works in Progress
 
 **A Theory of Special Legislation and Its Decline**\\
-(with [Slade Mendenhall](https://slademendenhall.com))
+(with [Slade Mendenhall](https://slademendenhall.com)) \\
 <sub>**Draft coming soon.**
 
 <button id="special-legislation-button" class="abstract-button" onclick="toggleAbstract('special-legislation')">Show Abstract</button>
