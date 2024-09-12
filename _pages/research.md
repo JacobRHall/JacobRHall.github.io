@@ -10,6 +10,11 @@ permalink: /research/
 
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**
 
+<button id="jmp-button" class="abstract-button" onclick="toggleAbstract('jmp')">Show Abstract</button>
+<div id="jmp" style="display:none;">
+  <p>Rather than govern from a fixed capital, medieval European kings were itinerant. Itinerant kingship was a rational coalition-building strategy employed by relatively weak rulers in the face of potentially violent elites. To empirically explore itinerant kingship, I introduce data on the daily location of the English king from 1199 to 1547. Utilizing genealogical data for feudal barons and the timing of contested elections for bishops, I show that the king's itinerary targeted "key players" within the elite network to maintain political support. When the Early Modern "military revolution" increased the military power of the king vis-à-vis the elites, European kings adopted stationary governments.</p>
+</div>
+
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)** 
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
