@@ -5,7 +5,7 @@ main:
   - title: "CV"
     url: /assets/documents/Hall_CV.pdf
   - title: "JMP"
-    url: /assets/documents/Hall_JMP_ItinerantKings.pdf
+    url: http://dx.doi.org/10.2139/ssrn.4689473
   -title: "Research"
     url: /research/
   - title: "Teaching"
@@ -20,5 +20,3 @@ main:
  #   url: /resources/
   # - title: "Resources"
  #   url: /resources/
-
-
