@@ -4,7 +4,9 @@ main:
     url: /
   - title: "CV"
     url: /assets/documents/Hall_CV.pdf
-  - title: "Research"
+  - title: "JMP"
+    url: /assets/documents/Hall_JMP_ItinerantKings.pdf
+  -title: "Research"
     url: /research/
   - title: "Teaching"
     url: /teaching/
