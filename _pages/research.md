@@ -28,6 +28,7 @@ permalink: /research/
 
 **A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com))
+<sub>**Draft coming soon.**
 
 <button id="special-legislation-button" class="abstract-button" onclick="toggleAbstract('special-legislation')">Show Abstract</button>
 <div id="special-legislation" style="display:none;">
