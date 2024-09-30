@@ -23,7 +23,7 @@ permalink: /research/
 
 **[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** \\
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
-<sub>**Revise and Resubmit.**
+<sub>**Revise and Resubmit Scandinavian Economic History Review.**
 
 ## Selected Works in Progress
 
