@@ -8,7 +8,7 @@ permalink: /research/
 
 ## Working Papers
 
-**[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**
+**[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
 <sub>**Job Market Paper.**
 
 <button id="jmp-button" class="abstract-button" onclick="toggleAbstract('jmp')">Show Abstract</button>
