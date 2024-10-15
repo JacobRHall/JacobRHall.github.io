@@ -1,12 +1,12 @@
 ---
 title:  "Teaching"
-date:   2023-11-25 16:00:00 -0500
+date:   2024-10-15 16:00:00 -0500
 permalink: /teaching/
 ---
 
 ## Courses Taught
 
-Foundations of Market Economies, UPenn, Fall 2023\\
+Foundations of Market Economies, UPenn, Fall 2023 & 2024\\
 <sub> with Jesus Fernández-Villaverde and Iván Luzardo Luna. </sub>
 
 Economics of Developing Areas, GMU, Spring 2022\\
