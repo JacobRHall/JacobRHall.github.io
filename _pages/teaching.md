@@ -18,8 +18,6 @@ permalink: /teaching/
 ## Various Talks and Lectures
 
 - [**Institutions and Economic Growth**](/assets/documents/UR_Institutions_Growth.pdf)  
-
 - [**The Great Depression**](/assets/documents/GreatDepression.pdf)
-
 - [**Are Markets Efficient?**](/assets/documents/MC_5_Efficiency.pdf)
 - [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
