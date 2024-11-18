@@ -14,3 +14,10 @@ Economics of Developing Areas, GMU, Spring 2022\\
 
 Topics in Economic History, GMU, Spring 2021\\
 <sub>Introduces economic way of thinking as applied to historical topics from the Roman Empire to the Industrial Revolution.</sub>
+
+
+## Various Talks and Lectures
+
+    <a href ="/assets/documents/UR_Institutions_Growth.pdf">Institutions and Economic Growth</a>
+    <a href ="/assets/documents/GreatDepression.pdf">The Great Depression</a>
+
