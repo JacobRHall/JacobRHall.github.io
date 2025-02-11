@@ -25,13 +25,13 @@ permalink: /research/
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
 <sub>**Revise and Resubmit Scandinavian Economic History Review.**
 
-**A Theory of Special Legislation and Its Decline**\\
+**Railroads and American Institutional Change**\\
 (with [Slade Mendenhall](https://slademendenhall.com)) \\
-<sub>**Draft available on request.**
+<sub>**Draft available on request.
 
 <button id="special-legislation-button" class="abstract-button" onclick="toggleAbstract('special-legislation')">Show Abstract</button>
 <div id="special-legislation" style="display:none;">
-  <p>For roughly 800 years, "legislation" often referred to special legislation—narrow bills tailored to the needs of specific individuals, firms, or properties. General laws were viewed with skepticism. Today, the opposite is true: broad laws are considered essential, and most states have banned special bills. This article reinterprets this historical shift, arguing that special legislation and the modern administrative state are substitutes. It contends that the transition from special to general legislation, often framed in terms of anti-corruption, was actually driven by politicians’ desires to create and extract rents facilitated by the 19th-century transportation boom. Thus, the rise of the administrative state and the expansion of American state capacity are seen as endogenous outcomes of industrialization.</p>
+  <p>For roughly 800 years, "legislation" largely meant special legislation: narrow bills tailored to the demands of particular persons, firms, or property. General laws were greeted with suspicion. Today, the reverse is true: it is believed that laws, to be good, must be broad, and states have overwhelmingly banned special bills. This article reconceives of this history, understanding special legislation and the modern administrative state as substitutes. It argues that, contrary to the accompanying anti-corruption rhetoric, the refashioning of legislation as it had always existed was born of politicians' desire to create and extract rents made possible by the 19th-century transportation boom. The emergence of the administrative state and the growth of American state capacity are thus understood as the endogenous fruits of industrialization.</p>
 </div>
 
 ## Selected Works in Progress
