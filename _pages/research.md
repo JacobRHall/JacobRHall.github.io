@@ -56,6 +56,7 @@ permalink: /research/
 (with [Marcus Shera](https://www.marcusshera.com))\\
 *Economic Affairs*, 2020
 
+<!--
 <style>
   .abstract-button {
     background-color: #007bff;
@@ -91,3 +92,4 @@ permalink: /research/
   }
 </script>
 
+-->
