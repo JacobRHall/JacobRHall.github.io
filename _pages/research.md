@@ -25,7 +25,7 @@ permalink: /research/
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
 <sub>**Revise and Resubmit Scandinavian Economic History Review.**
 
-**[A Theory of Special Legislation and Its Decline]**\\
+**A Theory of Special Legislation and Its Decline**\\
 (with [Slade Mendenhall](https://slademendenhall.com)) \\
 <sub>**Draft available on request.**
 
@@ -35,15 +35,6 @@ permalink: /research/
 </div>
 
 ## Selected Works in Progress
-
-**A Theory of Special Legislation and Its Decline**\\
-(with [Slade Mendenhall](https://slademendenhall.com)) \\
-<sub>**Draft coming soon.**
-
-<button id="special-legislation-button" class="abstract-button" onclick="toggleAbstract('special-legislation')">Show Abstract</button>
-<div id="special-legislation" style="display:none;">
-  <p>For roughly 800 years, "legislation" often referred to special legislation—narrow bills tailored to the needs of specific individuals, firms, or properties. General laws were viewed with skepticism. Today, the opposite is true: broad laws are considered essential, and most states have banned special bills. This article reinterprets this historical shift, arguing that special legislation and the modern administrative state are substitutes. It contends that the transition from special to general legislation, often framed in terms of anti-corruption, was actually driven by politicians’ desires to create and extract rents facilitated by the 19th-century transportation boom. Thus, the rise of the administrative state and the expansion of American state capacity are seen as endogenous outcomes of industrialization.</p>
-</div>
 
 **Islam, Trade, and the Rise of Northwestern Europe**\\
 (with [Marcus Shera](https://www.marcusshera.com))
