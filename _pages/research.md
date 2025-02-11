@@ -11,11 +11,11 @@ permalink: /research/
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
 <sub>**Job Market Paper, Under Review.**
 
-**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)** 
+**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)** \\
 <sub>**Under Review.**
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
-(with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))
+(with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))\\
 <sub>**Under Review.**
 
 **[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** \\
