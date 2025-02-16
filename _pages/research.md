@@ -18,10 +18,6 @@ permalink: /research/
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))\\
 <sub>**Under Review.**
 
-**[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** \\
-(with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
-<sub>**Accepted at Scandinavian Economic History Review.**
-
 **Railroads and American Institutional Change**\\
 (with [Slade Mendenhall](https://slademendenhall.com)) \\
 <sub>**Draft available on request.**
@@ -38,6 +34,11 @@ permalink: /research/
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and [Henry Thompson](https://www.henryathompson.com))
 
 ## Refereed Publications
+
+**[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** \\
+(with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
+*Scandinavian Economic History Review*, Forthcoming
+
 
 **[From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar](https://econjwatch.org/articles/from-hume-to-smith-on-the-common-law-and-english-liberty-a-comment-on-paul-sagar)**\\
 *Econ Journal Watch*, 2022
