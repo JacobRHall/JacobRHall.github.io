@@ -8,6 +8,8 @@ permalink: /research/
 
 ## Working Papers
 
+![ItinerantKings](/assets/images/edward2_favorite.jpg)
+
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
 <sub>**Job Market Paper, Under Review.**
 
