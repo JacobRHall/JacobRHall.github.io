@@ -8,13 +8,13 @@ permalink: /research/
 
 ## Working Papers
 
-<img src="/assets/images/edward2_favorite.jpg" style="float: right; margin-left: 20px; width: 40%;">
+<img src="/assets/images/edward2_favorite.jpg" style="float: right; margin-left: 20px; width: 35%;">
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
-<sub>**Job Market Paper, Under Review.**
+<sub>**Job Market Paper, Under Review.**</sub>
 
-<img src="/assets/images/travel_speed_painting.jpg" style="float: right; margin-left: 20px; width: 20%;">
-**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)** \\
-<sub>**Under Review.**
+<img src="/assets/images/travel_speed_painting.jpg" style="float: right; margin-left: 20px; width: 35%;">
+**[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
+<sub>**Under Review.**</sub>
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))\\
