@@ -9,11 +9,10 @@ permalink: /research/
 ## Working Papers
 
 <img src="/assets/images/edward2_favorite.jpg" style="float: right; margin-left: 20px; width: 40%;">
-
-
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
 <sub>**Job Market Paper, Under Review.**
 
+<img src="/assets/images/travel_speed_painting.jpg" style="float: right; margin-left: 20px; width: 40%;">
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)** \\
 <sub>**Under Review.**
 
