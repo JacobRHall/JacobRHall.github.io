@@ -18,9 +18,8 @@ permalink: /research/
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))\\
 <sub>**Under Review.**
 
-**<a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a> **\\
+<a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
 (with [Slade Mendenhall](https://slademendenhall.com)) \\
-<sub>**Draft available on request.**
 
 ## Selected Works in Progress
 
