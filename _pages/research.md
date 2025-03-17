@@ -19,7 +19,7 @@ permalink: /research/
 <sub>**Under Review.**
 
 <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
-(with [Slade Mendenhall](https://slademendenhall.com)) \\
+(with [Slade Mendenhall](https://slademendenhall.com))
 
 ## Selected Works in Progress
 
