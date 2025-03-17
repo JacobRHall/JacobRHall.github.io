@@ -26,7 +26,7 @@ permalink: /research/
 **Islam, Trade, and the Rise of Northwestern Europe**\\
 (with [Marcus Shera](https://www.marcusshera.com))
 
-**The King's French**\\
+**The King's French: The Political Economy of Language**\\
 (with [Alexander Taylor](https://alexntaylor.github.io))
 
 **The Spanish Inquisition** \\
