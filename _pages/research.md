@@ -9,7 +9,7 @@ permalink: /research/
 ## Working Papers
 
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
-<sub>**Job Market Paper, Under Review.**</sub>
+<sub>**Under Review.**</sub>
 
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
 <sub>**Under Review.**</sub>
