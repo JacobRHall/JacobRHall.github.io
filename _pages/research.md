@@ -9,14 +9,11 @@ permalink: /research/
 ## Working Papers
 
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**\\
-<sub>**Under Review.**</sub>
 
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)**\\
-<sub>**Under Review.**</sub>
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))\\
-<sub>**Under Review.**
 
 <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
 (with [Slade Mendenhall](https://slademendenhall.com))
