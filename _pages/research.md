@@ -34,9 +34,9 @@ permalink: /research/
 
 ## Refereed Publications
 
-**[Did the Great Leveling Begin After 1921?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4579359)** \\
+**[Did the Great Leveling Begin After 1921?](https://www.tandfonline.com/doi/full/10.1080/03585522.2025.2472936?scroll=top&needAccess=true)** \\
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
-*Scandinavian Economic History Review*, Forthcoming
+*Scandinavian Economic History Review*, 2025 
 
 
 **[From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar](https://econjwatch.org/articles/from-hume-to-smith-on-the-common-law-and-english-liberty-a-comment-on-paul-sagar)**\\
