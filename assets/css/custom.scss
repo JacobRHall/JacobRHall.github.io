@@ -1,5 +1,5 @@
-.author__avatar {
-    width: 500px; /* Adjust this size as needed */
-    height: 500px; /* Maintain aspect ratio */
-    border-radius: 50%; /* Keep it circular */
+.author__avatar img {
+    width: 200px !important;  /* Adjust as needed */
+    height: 200px !important;
+    border-radius: 50%; /* Keeps the image circular if needed */
 }
