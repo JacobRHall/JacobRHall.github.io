@@ -3,6 +3,7 @@ title:  "Teaching"
 date:   2024-11-18 16:00:00 -0500
 permalink: /teaching/
 ---
+![Becker](/assets/images/\Becker.jpg)
 
 ## Courses Taught
 

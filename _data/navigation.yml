@@ -8,8 +8,6 @@ main:
     url: /research/
   - title: "Teaching"
     url: /teaching/
-  - title: "PISM"
-    url: https://economics.sas.upenn.edu/pism
   - title: "Links"
     url: /links/
   # - title: "Resources"
