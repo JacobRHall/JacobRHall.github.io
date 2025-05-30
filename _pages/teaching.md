@@ -3,58 +3,16 @@ title:  "Teaching"
 date:   2024-11-18 16:00:00 -0500
 permalink: /teaching/
 ---
+
 ![Becker](/assets/images/\Becker.jpg)
 
+## Courses
 
-
-<button class="accordion">Section 1</button>
+<button class="accordion">Historical Political Economy</button>
 <div class="panel">
-  <p>Lorem ipsum...</p>
+  <a href="/lectures/cpe_1.html">Lecture 1: State and Market</a>
+  <a href="/lectures/cpe_2.html">Lecture 2: Institutions and Inequality</a>
 </div>
-
-
-.accordion {
-  background-color: #eee;
-  color: #444;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  text-align: left;
-  border: none;
-  outline: none;
-  transition: 0.4s;
-}
-
-
-.active, .accordion:hover {
-  background-color: #ccc;
-}
-
-.panel {
-  padding: 0 18px;
-  background-color: white;
-  display: none;
-  overflow: hidden;
-}
-
-var acc = document.getElementsByClassName("accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-  acc[i].addEventListener("click", function() {
-    /* Toggle between adding and removing the "active" class,
-    to highlight the button that controls the panel */
-    this.classList.toggle("active");
-
-    /* Toggle between hiding and showing the active panel */
-    var panel = this.nextElementSibling;
-    if (panel.style.display === "block") {
-      panel.style.display = "none";
-    } else {
-      panel.style.display = "block";
-    }
-  });
-}
 
 ## Various Talks and Lectures
 
@@ -63,5 +21,53 @@ for (i = 0; i < acc.length; i++) {
 - [**Are Markets Efficient?**](/assets/documents/MC_5_Efficiency.pdf)
 - [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
 
+<style>
+  .accordion {
+    cursor: pointer;
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.3s;
+    font-size: 18px;
+    background-color: #f1f1f1;
+    margin-top: 10px;
+  }
 
+  .accordion.active, .accordion:hover {
+    background-color: #e2e2e2;
+  }
 
+  .panel {
+    padding: 0 15px;
+    display: none;
+    background-color: #fafafa;
+    overflow: hidden;
+    border-left: 3px solid #ccc;
+  }
+
+  .panel a {
+    display: block;
+    padding: 8px 0;
+    color: #336699;
+    text-decoration: none;
+  }
+
+  .panel a:hover {
+    text-decoration: underline;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const acc = document.querySelectorAll(".accordion");
+    acc.forEach(button => {
+      button.addEventListener("click", () => {
+        button.classList.toggle("active");
+        const panel = button.nextElementSibling;
+        panel.style.display = panel.style.display === "block" ? "none" : "block";
+      });
+    });
+  });
+</script>
