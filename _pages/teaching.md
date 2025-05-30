@@ -87,4 +87,11 @@ permalink: /teaching/
   details.accordion a:hover {
     text-decoration: underline;
   }
+  
+  .no-bullets {
+  list-style-type: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
 </style>
