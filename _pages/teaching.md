@@ -13,35 +13,31 @@ permalink: /teaching/
   
   This set of lecture notes is the backbone of a course on Global Economic History.
   
- <ul class="circle-list">
-  <li><strong>Lecture 1:</strong> Introduction/Administrative Details</li>
-  <li><strong>Lecture 2:</strong> The Malthusian Economy</li>
-  <li><strong>Lecture 3:</strong> Violence and Social Orders</li>
-  <li><strong>Lecture 4:</strong> The Origins of Agriculture</li>
-  <li><strong>Lecture 5:</strong> The Origins of the State</li>
-  <li><strong>Lecture 6:</strong> Ancient Empires</li>
-  <li><strong>Lecture 7:</strong> Classical Greece.</li>
-  <li><strong>Lecture 8:</strong> Ancient Rome</li>
-  <li><strong>Lecture 9:</strong> Ancient and Medieval China</li>
-  <li><strong>Lecture 10:</strong> The Islamic World</li>
-  <li><strong>Lecture 11:</strong> The Commercial Revolution</li>
-  <li><strong>Lecture 12:</strong> Feudal Political Economy I</li>
-  <li><strong>Lecture 13:</strong> Feudal Political Economy II</li>
-  <li><strong>Lecture 14:</strong> The Printing Press</li>
-  <li><strong>Lecture 15:</strong> The Causes of the Protestant Reformation</li>
-  <li><strong>Lecture 16:</strong> The Consequences of the Protestant Reformation</li>
-  <li><strong>Lecture 17:</strong> The “Counter-Reformation” and the Spanish Inquisition</li>
-  <li><strong>Lecture 19:</strong> The Rise of the Modern Nation-State I</li>
-  <li><strong>Lecture 20:</strong> The Rise of the Modern Nation-State II</li>
-  <li><strong>Lecture 18:</strong> The Development of Representative Institutions</li>
-  <li><strong>Lecture 21:</strong> The Dutch Golden Age</li>
-  <li><strong>Lecture 22:</strong> The Origins of Political Liberalism</li>
-  <li><strong>Lecture 22:</strong> The British Industrial Revolution</li>
-  <li><strong>Lecture 23:</strong> Catching Up, Falling Behind I</li>
-  <li><strong>Lecture 23:</strong> Catching Up, Falling Behind II</li>
-  <li><strong>Lecture 24:</strong> Back in the U.S.S.R.</li>
-  <li><strong>Lecture 25:</strong> The East is Red</li>
-  <li><strong>Lecture 27:</strong> America in the Twentieth Century</li>
+ <ul class="list">
+  <li>Lecture 1:Introduction</li>
+  <li>Lecture 2: The Malthusian Economy</li>
+  <li>Lecture 3: Violence and Social Orders</li>
+  <li>Lecture 4: The Origins of Agriculture</li>
+  <li>Lecture 5: The Origins of the State</li>
+  <li>Lecture 6: Ancient Empires</li>
+  <li>Lecture 7: Classical Greece.</li>
+  <li>Lecture 8: Ancient Rome</li>
+  <li>Lecture 9: Ancient and Medieval China</li>
+  <li>Lecture 10: The Islamic World</li>
+  <li>Lecture 11: The Commercial Revolution</li>
+  <li>Lecture 12: Feudal Political Economy </li>
+  <li>Lecture 14: The Printing Press</li>
+  <li>Lecture 15: The Protestant Reformation</li>
+  <li>Lecture 17: The “Counter-Reformation” and the Spanish Inquisition</li>
+  <li>Lecture 19: The Rise of the Modern Nation-State </li>
+  <li>Lecture 18: The Development of Representative Institutions</li>
+  <li>Lecture 21: The Dutch Golden Age</li>
+  <li>Lecture 22: The Origins of Political Liberalism</li>
+  <li>Lecture 22: The British Industrial Revolution</li>
+  <li>Lecture 23: Catching Up, Falling Behind</li>
+  <li>Lecture 24: Back in the U.S.S.R.</li>
+  <li>Lecture 25: The East is Red</li>
+  <li>Lecture 27: America in the Twentieth Century</li>
 </ul>
 
 
