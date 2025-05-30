@@ -88,10 +88,11 @@ permalink: /teaching/
     text-decoration: underline;
   }
   
-  .no-bullets {
-  list-style-type: none;
-  padding-left: 0;
-  margin-left: 0;
-}
+ .no-bullets {
+    list-style-type: none;
+    padding-left: 0;
+    margin-left: 0;
+    font-size: 15px;
+  }
 
 </style>
