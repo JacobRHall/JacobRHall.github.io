@@ -58,6 +58,7 @@ permalink: /teaching/
     border: none;
     border-left: 3px solid #ccc;
     padding: 0;
+    font-size: 16px;
   }
 
   details.accordion[open] {
