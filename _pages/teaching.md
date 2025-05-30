@@ -92,7 +92,7 @@ permalink: /teaching/
     list-style-type: none;
     padding-left: 0;
     margin-left: 0;
-    font-size: 15px;
+    font-size: 12px;
   }
 
 </style>
