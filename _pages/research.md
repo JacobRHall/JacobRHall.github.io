@@ -16,7 +16,7 @@ permalink: /research/
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))
 
-**[Railroads and American Institutional Change](/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf) \\
+<a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
 ## Selected Works in Progress
