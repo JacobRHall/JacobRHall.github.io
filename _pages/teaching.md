@@ -11,7 +11,7 @@ permalink: /teaching/
 <details class="accordion">
   <summary>Historical Political Economy</summary>
   
-  This set of lecture notes is the backbone of a course on Global Economic History.
+  This set of lecture notes is the backbone of a course on Global Economic History. I will link to the slidedeck as I develop the material.
   
  <ul class="no-bullets">
   <li>Lecture 1: Introduction</li>
