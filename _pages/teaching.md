@@ -11,10 +11,10 @@ permalink: /teaching/
 <details class="accordion">
   <summary>Historical Political Economy</summary>
   
-  This set of lecture notes is the backbone of a course on Global Economic History.
+  This set of lecture notes is the backbone of a course on Global Economic History. \\
   
-  - [Lecture 1: State and Market]
-  - [Lecture 2: Institutions and Inequality]
+  - [Lecture 1: State and Market] \\
+  - [Lecture 2: Institutions and Inequality] \\
 
 </details>
 
