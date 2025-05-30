@@ -1,6 +1,5 @@
 ## Courses
 
-{% raw %}
 <button class="accordion">History of Capitalism</button>
 <div class="panel">
   <a href="/lectures/hoc_1.html">Lecture 1: The World the Market Made</a>
