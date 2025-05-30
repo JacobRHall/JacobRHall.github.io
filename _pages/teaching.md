@@ -8,21 +8,23 @@ permalink: /teaching/
 
 ## Courses
 
-<details>
-  <summary>Click me</summary>
+<details class="accordion">
+  <summary>History of Capitalism</summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  ### Lecture List
+  - [Lecture 1: The World the Market Made](/lectures/hoc_1.html)
+  - [Lecture 2: Slavery and the Balance Sheet](/lectures/hoc_2.html)
+  - [Lecture 3: Railroads and Risk](/lectures/hoc_3.html)
 
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
+</details>
+
+<details class="accordion">
+  <summary>Comparative Political Economy</summary>
+  
+  ### Lecture List
+  - [Lecture 1: State and Market](/lectures/cpe_1.html)
+  - [Lecture 2: Institutions and Inequality](/lectures/cpe_2.html)
+
 </details>
 
 ## Various Talks and Lectures
@@ -33,52 +35,49 @@ permalink: /teaching/
 - [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
 
 <style>
-  .accordion {
+  details.accordion {
+    margin-top: 10px;
+    background-color: #f1f1f1;
+    border: none;
+    border-left: 3px solid #ccc;
+    padding: 0;
+  }
+
+  details.accordion[open] {
+    background-color: #fafafa;
+  }
+
+  details.accordion summary {
     cursor: pointer;
     padding: 15px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: 0.3s;
     font-size: 18px;
-    background-color: #f1f1f1;
-    margin-top: 10px;
+    list-style: none;
   }
 
-  .accordion.active, .accordion:hover {
-    background-color: #e2e2e2;
-  }
-
-  .panel {
-    padding: 0 15px;
+  details.accordion summary::-webkit-details-marker {
     display: none;
-    background-color: #fafafa;
-    overflow: hidden;
-    border-left: 3px solid #ccc;
   }
 
-  .panel a {
-    display: block;
-    padding: 8px 0;
+  details.accordion summary::after {
+    content: '➕';
+    float: right;
+    font-size: 16px;
+  }
+
+  details.accordion[open] summary::after {
+    content: '➖';
+  }
+
+  details.accordion > *:not(summary) {
+    padding: 0 15px 15px;
+  }
+
+  details.accordion a {
     color: #336699;
     text-decoration: none;
   }
 
-  .panel a:hover {
+  details.accordion a:hover {
     text-decoration: underline;
   }
 </style>
-
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const acc = document.querySelectorAll(".accordion");
-    acc.forEach(button => {
-      button.addEventListener("click", () => {
-        button.classList.toggle("active");
-        const panel = button.nextElementSibling;
-        panel.style.display = panel.style.display === "block" ? "none" : "block";
-      });
-    });
-  });
-</script>
