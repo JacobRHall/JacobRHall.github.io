@@ -26,18 +26,18 @@ permalink: /teaching/
   <li>Lecture 10: The Islamic World</li>
   <li>Lecture 11: The Commercial Revolution</li>
   <li>Lecture 12: Feudal Political Economy </li>
-  <li>Lecture 14: The Printing Press</li>
-  <li>Lecture 15: The Protestant Reformation</li>
-  <li>Lecture 17: The “Counter-Reformation” and the Spanish Inquisition</li>
-  <li>Lecture 19: The Rise of the Modern Nation-State </li>
-  <li>Lecture 18: The Development of Representative Institutions</li>
-  <li>Lecture 21: The Dutch Golden Age</li>
-  <li>Lecture 22: The Origins of Political Liberalism</li>
-  <li>Lecture 22: The British Industrial Revolution</li>
-  <li>Lecture 23: Catching Up, Falling Behind</li>
-  <li>Lecture 24: Back in the U.S.S.R.</li>
-  <li>Lecture 25: The East is Red</li>
-  <li>Lecture 27: America in the Twentieth Century</li>
+  <li>Lecture 13: The Printing Press</li>
+  <li>Lecture 14: The Protestant Reformation</li>
+  <li>Lecture 15: The “Counter-Reformation” and the Spanish Inquisition</li>
+  <li>Lecture 16: The Rise of the Modern Nation-State </li>
+  <li>Lecture 17: The Development of Representative Institutions</li>
+  <li>Lecture 18: The Dutch Golden Age</li>
+  <li>Lecture 19: The Origins of Political Liberalism</li>
+  <li>Lecture 20: The British Industrial Revolution</li>
+  <li>Lecture 21: Catching Up, Falling Behind</li>
+  <li>Lecture 22: Back in the U.S.S.R.</li>
+  <li>Lecture 23: The East is Red</li>
+  <li>Lecture 24: America in the Twentieth Century</li>
 </ul>
 
 
