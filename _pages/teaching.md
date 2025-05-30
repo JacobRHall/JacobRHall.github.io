@@ -58,6 +58,8 @@ permalink: /teaching/
     display: none;
   }
 
+  /* Removed the plus/minus icons */
+  /*
   details.accordion summary::after {
     content: '➕';
     float: right;
@@ -67,6 +69,7 @@ permalink: /teaching/
   details.accordion[open] summary::after {
     content: '➖';
   }
+  */
 
   details.accordion > *:not(summary) {
     padding: 0 15px 15px;
