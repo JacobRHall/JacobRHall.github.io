@@ -5,16 +5,37 @@ permalink: /teaching/
 ---
 ![Becker](/assets/images/\Becker.jpg)
 
-## Courses Taught
 
-**Foundations of Market Economies**, UPenn, Fall 2023 & 2024  
-<sub>Co-taught with Jesús Fernández-Villaverde and Iván Luzardo Luna.</sub>
 
-**Economics of Developing Areas**, GMU, Spring 2022  
-<sub>Introduces the economic way of thinking on matters of global economic development.</sub>
+<button class="accordion">Section 1</button>
+<div class="panel">
+  <p>Lorem ipsum...</p>
+</div>
 
-**Topics in Economic History**, GMU, Spring 2021  
-<sub>Explores economic thinking applied to historical topics, from the Roman Empire to the Industrial Revolution.</sub>
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  border: none;
+  outline: none;
+  transition: 0.4s;
+}
+
+
+.active, .accordion:hover {
+  background-color: #ccc;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  display: none;
+  overflow: hidden;
+}
 
 ## Various Talks and Lectures
 
@@ -22,3 +43,6 @@ permalink: /teaching/
 - [**The Great Depression**](/assets/documents/GreatDepression.pdf)
 - [**Are Markets Efficient?**](/assets/documents/MC_5_Efficiency.pdf)
 - [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
+
+
+
