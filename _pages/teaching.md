@@ -1,3 +1,11 @@
+---
+title:  "Teaching"
+date:   2024-11-18 16:00:00 -0500
+permalink: /teaching/
+---
+
+![Becker](/assets/images/\Becker.jpg)
+
 ## Courses
 
 <button class="accordion">History of Capitalism</button>
@@ -12,6 +20,13 @@
   <a href="/lectures/cpe_1.html">Lecture 1: State and Market</a>
   <a href="/lectures/cpe_2.html">Lecture 2: Institutions and Inequality</a>
 </div>
+
+## Various Talks and Lectures
+
+- [**Institutions and Economic Growth**](/assets/documents/UR_Institutions_Growth.pdf)  
+- [**The Great Depression**](/assets/documents/GreatDepression.pdf)
+- [**Are Markets Efficient?**](/assets/documents/MC_5_Efficiency.pdf)
+- [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
 
 <style>
   .accordion {
@@ -63,4 +78,3 @@
     });
   });
 </script>
-
