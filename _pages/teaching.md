@@ -9,16 +9,6 @@ permalink: /teaching/
 ## Courses
 
 <details class="accordion">
-  <summary>History of Capitalism</summary>
-  
-  ### Lecture List
-  - [Lecture 1: The World the Market Made](/lectures/hoc_1.html)
-  - [Lecture 2: Slavery and the Balance Sheet](/lectures/hoc_2.html)
-  - [Lecture 3: Railroads and Risk](/lectures/hoc_3.html)
-
-</details>
-
-<details class="accordion">
   <summary>Comparative Political Economy</summary>
   
   ### Lecture List
@@ -57,19 +47,6 @@ permalink: /teaching/
   details.accordion summary::-webkit-details-marker {
     display: none;
   }
-
-  /* Removed the plus/minus icons */
-  /*
-  details.accordion summary::after {
-    content: '➕';
-    float: right;
-    font-size: 16px;
-  }
-
-  details.accordion[open] summary::after {
-    content: '➖';
-  }
-  */
 
   details.accordion > *:not(summary) {
     padding: 0 15px 15px;
