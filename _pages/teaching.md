@@ -67,7 +67,7 @@ permalink: /teaching/
   details.accordion summary {
     cursor: pointer;
     padding: 15px;
-    font-size: 18px;
+    font-size: 15px;
     list-style: none;
   }
 
@@ -92,7 +92,7 @@ permalink: /teaching/
     list-style-type: none;
     padding-left: 0;
     margin-left: 0;
-    font-size: 12px;
+    font-size: 15px;
   }
 
 </style>
