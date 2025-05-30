@@ -14,7 +14,7 @@ permalink: /teaching/
   This set of lecture notes is the backbone of a course on Global Economic History.
   
  <ul class="list">
-  <li>Lecture 1:Introduction</li>
+  <li>Lecture 1: Introduction</li>
   <li>Lecture 2: The Malthusian Economy</li>
   <li>Lecture 3: Violence and Social Orders</li>
   <li>Lecture 4: The Origins of Agriculture</li>
