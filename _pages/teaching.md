@@ -8,18 +8,22 @@ permalink: /teaching/
 
 ## Courses
 
-<button class="accordion">History of Capitalism</button>
-<div class="panel">
-  <a href="/lectures/hoc_1.html">Lecture 1: The World the Market Made</a>
-  <a href="/lectures/hoc_2.html">Lecture 2: Slavery and the Balance Sheet</a>
-  <a href="/lectures/hoc_3.html">Lecture 3: Railroads and Risk</a>
-</div>
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
 
-<button class="accordion">Comparative Political Economy</button>
-<div class="panel">
-  <a href="/lectures/cpe_1.html">Lecture 1: State and Market</a>
-  <a href="/lectures/cpe_2.html">Lecture 2: Institutions and Inequality</a>
-</div>
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
 
 ## Various Talks and Lectures
 
