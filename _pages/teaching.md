@@ -1,25 +1,18 @@
----
-title:  "Teaching"
-date:   2024-11-18 16:00:00 -0500
-permalink: /teaching/
----
-
-![Becker](/assets/images/\Becker.jpg)
-
 ## Courses
 
-<button class="accordion">Historical Political Economy</button>
+{% raw %}
+<button class="accordion">History of Capitalism</button>
+<div class="panel">
+  <a href="/lectures/hoc_1.html">Lecture 1: The World the Market Made</a>
+  <a href="/lectures/hoc_2.html">Lecture 2: Slavery and the Balance Sheet</a>
+  <a href="/lectures/hoc_3.html">Lecture 3: Railroads and Risk</a>
+</div>
+
+<button class="accordion">Comparative Political Economy</button>
 <div class="panel">
   <a href="/lectures/cpe_1.html">Lecture 1: State and Market</a>
   <a href="/lectures/cpe_2.html">Lecture 2: Institutions and Inequality</a>
 </div>
-
-## Various Talks and Lectures
-
-- [**Institutions and Economic Growth**](/assets/documents/UR_Institutions_Growth.pdf)  
-- [**The Great Depression**](/assets/documents/GreatDepression.pdf)
-- [**Are Markets Efficient?**](/assets/documents/MC_5_Efficiency.pdf)
-- [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
 
 <style>
   .accordion {
@@ -71,3 +64,4 @@ permalink: /teaching/
     });
   });
 </script>
+{% endraw %}
