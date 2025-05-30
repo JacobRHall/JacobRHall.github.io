@@ -9,11 +9,12 @@ permalink: /teaching/
 ## Courses
 
 <details class="accordion">
-  <summary>Comparative Political Economy</summary>
+  <summary>Historical Political Economy</summary>
   
-  ### Lecture List
-  - [Lecture 1: State and Market](/lectures/cpe_1.html)
-  - [Lecture 2: Institutions and Inequality](/lectures/cpe_2.html)
+  This set of lecture notes is the backbone of a course on Global Economic History.
+  
+  - [Lecture 1: State and Market]
+  - [Lecture 2: Institutions and Inequality]
 
 </details>
 
