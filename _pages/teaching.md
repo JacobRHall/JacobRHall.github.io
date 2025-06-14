@@ -1,6 +1,6 @@
 ---
 title:  "Teaching"
-date:   2024-11-18 16:00:00 -0500
+date:   2025-7-14 16:00:00 -0500
 permalink: /teaching/
 ---
 
@@ -9,37 +9,33 @@ permalink: /teaching/
 ## Courses
 
 <details class="accordion">
-  <summary>Historical Political Economy</summary>
+  <summary>Global Economic History</summary>
   
-  This set of lecture notes is the backbone of an undergraduate course on Global Economic History. I will link to the slidedeck as I develop the material.
+  This set of lecture notes is the backbone of an undergraduate course on Global Economic History. I will link to the slidedecks as I develop the material.
   
- <ul class="no-bullets">
-  <li>Lecture 1: Introduction</li>
-  <li>Lecture 2: The Malthusian Economy</li>
-  <li>Lecture 3: Violence and Social Orders</li>
-  <li>Lecture 4: The Origins of Agriculture</li>
-  <li>Lecture 5: The Origins of the State</li>
-  <li>Lecture 6: Ancient Empires</li>
-  <li>Lecture 7: Classical Greece.</li>
-  <li>Lecture 8: Ancient Rome</li>
-  <li>Lecture 9: Ancient and Medieval China</li>
-  <li>Lecture 10: The Islamic World</li>
-  <li>Lecture 11: The Commercial Revolution</li>
-  <li>Lecture 12: Feudal Political Economy </li>
-  <li>Lecture 13: The Printing Press</li>
-  <li>Lecture 14: The Protestant Reformation</li>
-  <li>Lecture 15: The “Counter-Reformation” and the Spanish Inquisition</li>
-  <li>Lecture 16: The Rise of the Modern Nation-State </li>
-  <li>Lecture 17: The Development of Representative Institutions</li>
-  <li>Lecture 18: The Dutch Golden Age</li>
-  <li>Lecture 19: The Origins of Political Liberalism</li>
-  <li>Lecture 20: The British Industrial Revolution</li>
-  <li>Lecture 21: Catching Up, Falling Behind</li>
-  <li>Lecture 22: Back in the U.S.S.R.</li>
-  <li>Lecture 23: The East is Red</li>
-  <li>Lecture 24: America in the Twentieth Century</li>
+<ul class="no-bullets">
+  <li>Lecture 1: The Malthusian Economy</li>
+  <li>Lecture 2: Violence and Social Orders</li>
+  <li>Lecture 3: The Neolithic Revolution</li>
+  <li>Lecture 4: The Origins of the State</li>
+  <li>Lecture 5: Ancient Empires</li>
+  <li>Lecture 6: Classical Greece</li>
+  <li>Lecture 7: Ancient Rome</li>
+  <li>Lecture 8: Ancient and Medieval China</li>
+  <li>Lecture 9: The Islamic World</li>
+  <li>Lecture 10: The Commercial Revolution</li>
+  <li>Lecture 11: Feudal Political Economy</li>
+  <li>Lecture 12: The Printing Press</li>
+  <li>Lecture 13: The Protestant Reformation</li>
+  <li>Lecture 14: The Rise of the Modern Nation-State</li>
+  <li>Lecture 15: The Development of Representative Institutions</li>
+  <li>Lecture 16: The Dutch Golden Age</li>
+  <li>Lecture 17: The Origins of Political Liberalism</li>
+  <li>Lecture 18: The British Industrial Revolution</li>
+  <li>Lecture 19: Catching Up, Falling Behind</li>
+  <li>Lecture 20: Life and Death in the People's Republics</li>
+  <li>Lecture 21: America in the Twentieth Century</li>
 </ul>
-
 
 
 </details>
