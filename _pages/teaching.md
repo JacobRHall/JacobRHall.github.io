@@ -11,10 +11,10 @@ permalink: /teaching/
 <details class="accordion">
   <summary>Global Economic History</summary>
   
-  This set of lecture notes is the backbone of an undergraduate course on Global Economic History. I will link to the slidedecks as I develop the material.
+  This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.
   
 <ul class="no-bullets">
-  <li>Lecture 1: The Malthusian Economy</li>
+  <li>Lecture 1: [The Malthusian Economy](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures)</li>
   <li>Lecture 2: Violence and Social Orders</li>
   <li>Lecture 3: The Neolithic Revolution</li>
   <li>Lecture 4: The Origins of the State</li>
@@ -42,10 +42,10 @@ permalink: /teaching/
 
 ## Various Talks and Lectures
 
-- [**Institutions and Economic Growth**](/assets/documents/UR_Institutions_Growth.pdf)  
-- [**The Great Depression**](/assets/documents/GreatDepression.pdf)
-- [**Are Markets Efficient?**](/assets/documents/MC_5_Efficiency.pdf)
-- [**Are Market Outcomes Fair?**](/assets/documents/MC_4_Inequality.pdf)
+- [**Institutions and Economic Growth**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/UR_Institutions_Growth.pdf)  
+- [**The Great Depression**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/GreatDepression.pdf)
+- [**Are Markets Efficient?**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/MC_5_Efficiency.pdf)
+- [**Are Market Outcomes Fair?**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/MC_4_Inequality.pdf)
 
 <style>
   details.accordion {
