@@ -14,7 +14,7 @@ permalink: /teaching/
   This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.
   
 <ul class="no-bullets">
-  <li>Lecture 1: [The Malthusian Economy](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures)</li>
+  <li>Lecture 1: <a href="/assets/documents/Lectures/The_Malthusian_Economy.pdf">The Malthusian Economy</a></li>
   <li>Lecture 2: Violence and Social Orders</li>
   <li>Lecture 3: The Neolithic Revolution</li>
   <li>Lecture 4: The Origins of the State</li>
