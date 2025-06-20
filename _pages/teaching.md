@@ -36,11 +36,15 @@ permalink: /teaching/
   <li> 20. Life and Death in the People's Republics</li>
   <li> 21. America in the Twentieth Century</li>
 </ul>
-
-
 </details>
 
-## Various Talks and s
+<details class="accordion">
+  <summary>Law and Economics</summary>
+  This set of  notes is the backbone of an undergraduate course on law and economics. There are two primary approaches to “Law and Economics.” The first uses economics to understand how changes in legal rules affect human behavior. The second uses economics to explain the structure and variation of the legal rules themselves. This course explores both approaches. I will link to the slidedecks as I develop the material.
+</details>
+
+
+## Various Talks and Lectures
 
 - [**Institutions and Economic Growth**](/assets/documents/s/UR_Institutions_Growth.pdf)  
 - [**The Great Depression**](/assets/documents/s/GreatDepression.pdf)
