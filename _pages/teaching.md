@@ -14,7 +14,7 @@ permalink: /teaching/
   This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.
   
 <ul class="no-bullets">
-  <li>Lecture 1: <a href="/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
+  <li>Lecture 1: <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
   <li>Lecture 2: Violence and Social Orders</li>
   <li>Lecture 3: The Neolithic Revolution</li>
   <li>Lecture 4: The Origins of the State</li>
@@ -42,10 +42,10 @@ permalink: /teaching/
 
 ## Various Talks and Lectures
 
-- [**Institutions and Economic Growth**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/UR_Institutions_Growth.pdf)  
-- [**The Great Depression**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/GreatDepression.pdf)
-- [**Are Markets Efficient?**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/MC_5_Efficiency.pdf)
-- [**Are Market Outcomes Fair?**](/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Lectures/MC_4_Inequality.pdf)
+- [**Institutions and Economic Growth**](/assets/documents/Lectures/UR_Institutions_Growth.pdf)  
+- [**The Great Depression**](/assets/documents/Lectures/GreatDepression.pdf)
+- [**Are Markets Efficient?**](/assets/documents/Lectures/MC_5_Efficiency.pdf)
+- [**Are Market Outcomes Fair?**](/assets/documents/Lectures/MC_4_Inequality.pdf)
 
 <style>
   details.accordion {
