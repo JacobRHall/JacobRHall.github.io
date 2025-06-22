@@ -112,9 +112,10 @@ google_analytics: G-Q77K7YLSVZ
 author:
   name             : "Jacob R. Hall"
   avatar           : "/assets/images/headshot2.jpg"
-  bio              : "I am a Postdoctoral Fellow at the University of Pennsylvania. My research interests are in Political Economy, Law & Economics, and Economic History, especially in spatial and network settings."
-  location         : "Philadelphia, PA"
-  email            : jhall26@sas.upenn.edu
+  bio              : "I am an Assistant Professor at The Ohio State University. My research interests are in Political Economy, Law & Economics, and Economic History.
+  
+  location         : "Columbus, OH"
+  email            : hall.2743@osu.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
