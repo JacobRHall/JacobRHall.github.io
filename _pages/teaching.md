@@ -43,7 +43,7 @@ permalink: /teaching/
   This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. There are two primary approaches to “Law and Economics.” The first uses economics to understand how changes in legal rules affect human behavior. The second uses economics to explain the structure and variation of the legal rules themselves. This course explores both approaches. I will link to the slidedecks as I develop the material.
   
   <ul class="no-bullets">
-  <li> 1. The Economics of Property</a></li>
+  <li> 1. The Economics of Property</li>
   <li> 2. The Economics of Torts</li>
   <li> 3. The Economics of Contracts</li>
   <li> 4. The Economics of the Legal Process</li>
