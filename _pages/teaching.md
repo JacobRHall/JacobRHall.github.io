@@ -40,7 +40,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>Law and Economics</summary>
-  This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. There are two primary approaches to “Law and Economics.” The first uses economics to understand how changes in legal rules affect human behavior. The second uses economics to explain the structure and variation of the legal rules themselves. This course explores both approaches. I will link to the slidedecks as I develop the material.
+  This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
