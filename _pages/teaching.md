@@ -57,10 +57,15 @@ permalink: /teaching/
 
 ## Various Talks and Lectures
 
-- [**Institutions and Economic Growth**](/assets/documents/s/UR_Institutions_Growth.pdf)  
-- [**The Great Depression**](/assets/documents/s/GreatDepression.pdf)
-- [**Are Markets Efficient?**](/assets/documents/s/MC_5_Efficiency.pdf)
-- [**Are Market Outcomes Fair?**](/assets/documents/s/MC_4_Inequality.pdf)
+<details class="accordion">
+  <summary>Lectures in Economic History</summary>
+  
+  <ul class="no-bullets">
+    <li> <a href="/assets/documents/s/UR_Institutions_Growth.pdf">Institutions and Economic Growth</a></li>
+      <li> <a href="/assets/documents/s/GreatDepression.pdf">The Great Depression</a></li>
+
+</ul>
+</details>
 
 <style>
   details.accordion {
