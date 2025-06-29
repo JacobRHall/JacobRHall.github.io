@@ -39,7 +39,7 @@ permalink: /teaching/
 </details>
 
 <details class="accordion">
-  <summary>The Economics of the Law</summary>
+  <summary>Law & Economics</summary>
   This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.
   
   <ul class="no-bullets">
