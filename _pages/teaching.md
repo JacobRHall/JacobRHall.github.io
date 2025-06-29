@@ -39,14 +39,14 @@ permalink: /teaching/
 </details>
 
 <details class="accordion">
-  <summary>Law and Economics</summary>
+  <summary>The Economics of the Law</summary>
   This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
   <li> 2. The Economics of Torts</li>
   <li> 3. The Economics of Contracts</li>
-  <li> 4. The Economics of the Dispute Resolution</li>
+  <li> 4. The Economics of Dispute Resolution</li>
   <li> 5. The Economics of the Legal System </li>
   <li> 6. The Economics of Crime and Punishment</li>
   <li> 7. The Economics of Legislation and Regulation</li>
