@@ -1,6 +1,6 @@
 ---
 title:  "Teaching"
-date:   2025-6-20 16:00:00 -0500
+date:   2025-6-29 16:00:00 -0500
 permalink: /teaching/
 ---
 
@@ -46,10 +46,11 @@ permalink: /teaching/
   <li> 1. The Economics of Property</li>
   <li> 2. The Economics of Torts</li>
   <li> 3. The Economics of Contracts</li>
-  <li> 4. The Economics of the Legal Process</li>
-  <li> 5. The Economics of Crime and Punishment</li>
-  <li> 6. The Economics of Legislation and Regulation</li>
-  <li> 7. Legal Systems Very Different than Our Own</li>
+  <li> 4. The Economics of the Dispute Resolution</li>
+  <li> 5. The Economics of the Legal System </li>
+  <li> 6. The Economics of Crime and Punishment</li>
+  <li> 7. The Economics of Legislation and Regulation</li>
+  <li> 8. The Economics of the Absurd</li>
 </ul>
 </details>
 
