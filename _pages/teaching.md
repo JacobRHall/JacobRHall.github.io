@@ -11,7 +11,7 @@ permalink: /teaching/
 <details class="accordion">
   <summary>Global Economic History</summary>
   
-  This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.
+   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.<p>
   
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
@@ -40,7 +40,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>Law and Economics</summary>
-  This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.
+   <p>This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.<p>
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
@@ -57,7 +57,7 @@ permalink: /teaching/
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
   
- <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>.</p> I will link to the slidedecks as I develop the material.
+ <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. I will link to the slidedecks as I develop the material.</p> 
   
 <ul class="no-bullets">
   <li>1. The Nature of the Firm</li>
