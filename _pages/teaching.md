@@ -36,7 +36,7 @@ permalink: /teaching/
   <li> 21. America in the Twentieth Century</li>
 </ul>
 </details>
-
+<!--
 <details class="accordion">
   <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
@@ -52,6 +52,7 @@ permalink: /teaching/
   <li> 8. The Economics of the Absurd</li>
 </ul>
 </details>
+
 
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
@@ -72,7 +73,7 @@ permalink: /teaching/
   <li>12. Commitment, Leadership, and Property Rights</li>
 </ul>
 </details>
-
+-->
 
 ## Various Talks and Lectures
 
@@ -86,6 +87,7 @@ permalink: /teaching/
 </ul>
 </details>
 
+<!--
 <details class="accordion accordion-darkside">
   <summary>Lectures on the Dark Side of the Force</summary>
   
@@ -98,7 +100,7 @@ permalink: /teaching/
   <li>6. The Economics of Extinction</li>
 </ul>
 </details>
-
+-->
 
 <style>
   details.accordion {
