@@ -4,7 +4,7 @@ date:   2025-6-29 16:00:00 -0500
 permalink: /teaching/
 ---
 
-![Becker](/assets/images/Becker.jpg)
+![Becker](/assets/images/Becker_crop.jpg)
 
 ## Courses
 
