@@ -119,6 +119,7 @@ permalink: /teaching/
     padding: 15px;
     font-size: 16px;
     list-style: none;
+    font-weight: bold;
   }
 
   details.accordion summary::-webkit-details-marker {
