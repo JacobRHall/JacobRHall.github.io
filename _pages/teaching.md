@@ -54,6 +54,27 @@ permalink: /teaching/
 </ul>
 </details>
 
+<details class="accordion">
+  <summary>Leadership and Managerial Dilemmas</summary>
+  
+ <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>.</p> I will link to the slidedecks as I develop the material.
+  
+<ul class="no-bullets">
+  <li>1. The Nature of the Firm</li>
+  <li>2. Market Failures and Hierarchical Solutions</li>
+  <li>3. Bargaining Failure</li>
+  <li>4. Voting Failure</li>
+  <li>5. Horizontal Dilemmas in Hierarchy<</li>
+  <li>6. Vertical Dilemmas in Hierarchy<</li>
+  <li>7. Hidden Action in Hierarchy</li>
+  <li>8. Hidden Information in Hierarchy</li>
+  <li>9. Hierarchical Failures and Market Solutions</li>
+  <li>10. The Possibilities of Cooperation</li>
+  <li>11. The Indeterminacy of Cooperation</li>
+  <li>12. Commitment, Leadership, and Property Rights</li>
+</ul>
+</details>
+
 
 ## Various Talks and Lectures
 
