@@ -10,8 +10,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>Global Economic History</summary>
-  
-   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.</p>
+  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.</p>
   
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
@@ -56,8 +55,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
-  
- <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. I will link to the slidedecks as I develop the material.</p> 
+  <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. I will link to the slidedecks as I develop the material.</p> 
   
 <ul class="no-bullets">
   <li>1. The Nature of the Firm</li>
@@ -87,6 +85,20 @@ permalink: /teaching/
 
 </ul>
 </details>
+
+<details class="accordion accordion-darkside">
+  <summary>Lectures on the Dark Side of the Force</summary>
+  
+<ul class="no-bullets">
+  <li>1. The Economics of Disease</li>
+  <li>2. The Economics of Famine</li>
+  <li>3. The Economics of Labor Coercion</li>
+  <li>4. The Economics of Genocide</li>
+  <li>5. The Economics of Persecution</li>
+  <li>6. The Economics of Extinction</li>
+</ul>
+</details>
+
 
 <style>
   details.accordion {
@@ -132,5 +144,19 @@ permalink: /teaching/
     margin-left: 0;
     font-size: 16px;
   }
+  
+  details.accordion-darkside {
+  background-color: #ffe6e6; /* light red background */
+  border-left: 3px solid #cc0000;
+}
+
+details.accordion-darkside[open] {
+  background-color: #ffcccc;
+}
+
+details.accordion-darkside summary {
+  color: #990000;
+  font-weight: bold;
+}
 
 </style>
