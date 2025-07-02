@@ -64,8 +64,8 @@ permalink: /teaching/
   <li>2. Market Failures and Hierarchical Solutions</li>
   <li>3. Bargaining Failure</li>
   <li>4. Voting Failure</li>
-  <li>5. Horizontal Dilemmas in Hierarchy<</li>
-  <li>6. Vertical Dilemmas in Hierarchy<</li>
+  <li>5. Horizontal Dilemmas in Hierarchy</li>
+  <li>6. Vertical Dilemmas in Hierarchy</li>
   <li>7. Hidden Action in Hierarchy</li>
   <li>8. Hidden Information in Hierarchy</li>
   <li>9. Hierarchical Failures and Market Solutions</li>
