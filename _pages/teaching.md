@@ -11,7 +11,7 @@ permalink: /teaching/
 <details class="accordion">
   <summary>Global Economic History</summary>
   
-   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.<p>
+   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.</p>
   
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
@@ -40,7 +40,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>Law and Economics</summary>
-   <p>This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.<p>
+   <p>This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
