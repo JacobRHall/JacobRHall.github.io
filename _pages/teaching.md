@@ -80,8 +80,8 @@ permalink: /teaching/
   <summary>Lectures in Economic History</summary>
   
   <ul class="no-bullets">
-    <li> <a href="/assets/documents/Lectures/GreatDepression.pdf">Institutions and Economic Growth</a></li>
-      <li> <a href="/assets/documents/Lectures/UR_Institutions_Growth.pdf">The Great Depression</a></li>
+    <li> <a href="/assets/documents/Lectures/GreatDepression.pdf">The Great Depression</a></li>
+      <li> <a href="/assets/documents/Lectures/UR_Institutions_Growth.pdf">Institutions and Economic Growth</a></li>
 
 </ul>
 </details>
