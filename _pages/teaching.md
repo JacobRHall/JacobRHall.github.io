@@ -36,7 +36,7 @@ permalink: /teaching/
   <li> 21. America in the Twentieth Century</li>
 </ul>
 </details>
-<!--
+
 <details class="accordion">
   <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
@@ -49,10 +49,11 @@ permalink: /teaching/
   <li> 5. The Economics of the Legal System </li>
   <li> 6. The Economics of Crime and Punishment</li>
   <li> 7. The Economics of Legislation and Regulation</li>
-  <li> 8. The Economics of the Absurd</li>
+  <li> 8. The Economics of Seemingly Absurd Legal Systems</li>
 </ul>
 </details>
 
+<!--
 
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
