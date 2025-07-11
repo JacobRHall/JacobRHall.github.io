@@ -53,7 +53,7 @@ permalink: /teaching/
 </ul>
 </details>
 
-<!--
+
 
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
@@ -74,6 +74,7 @@ permalink: /teaching/
   <li>12. Commitment, Leadership, and Property Rights</li>
 </ul>
 </details>
+<!--
 -->
 
 ## Various Talks and Lectures
