@@ -39,7 +39,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>The Economics of the Law</summary>
-   <p>This set of lecture notes is the backbone of an introductory course on law and economics for undergraduates. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
+   <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
