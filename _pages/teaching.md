@@ -57,7 +57,7 @@ permalink: /teaching/
 
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
-  <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. I will link to the slidedecks as I develop the material.</p> 
+  <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. It is a mix of industrial organization, transactions costs economics, and business history. I will link to the slidedecks as I develop the material. </p> 
   
 <ul class="no-bullets">
   <li>1. The Nature of the Firm</li>
@@ -99,6 +99,7 @@ permalink: /teaching/
   <li>4. The Economics of Genocide</li>
   <li>5. The Economics of Persecution</li>
   <li>6. The Economics of Extinction</li>
+  <li>7. The Economics of Crime and Punishment</li>
 </ul>
 </details>
 -->
