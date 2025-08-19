@@ -14,7 +14,7 @@ permalink: /teaching/
   
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
-  <li> 2. Violence and Social Orders</li>
+  <li> 2. <a href ="/assets/documents/HPE Slides/NWW.pdf">Violence and Social Orders</a></li>
   <li> 3. The Neolithic Revolution</li>
   <li> 4. The Origins of the State</li>
   <li> 5. Ancient Empires</li>
