@@ -74,7 +74,7 @@ permalink: /teaching/
   <li>12. Commitment, Leadership, and Property Rights</li>
 </ul>
 </details>
--->
+
 
 <details class="accordion">
   <summary>Economics for Citizenship</summary>
@@ -92,7 +92,7 @@ permalink: /teaching/
 </ul>
 </details>
 
-
+-->
 
 
 ## Various Talks and Lectures
