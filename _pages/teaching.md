@@ -41,6 +41,8 @@ permalink: /teaching/
   <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
+  ![Monet](/assets/images/Monet_Cathedral.png)
+  
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
   <li> 2. The Economics of Torts</li>
@@ -81,14 +83,8 @@ permalink: /teaching/
    <p>This is a seminar-style course I teach with <a href="https://sites.google.com/usc.edu/laurasiscoe/home">Laura Siscoe</a>, a philospher and Chase Center colleague. We give a few traditional lectures over the course of the semester, which I have linked to below.</p>
   
   <ul class="no-bullets">
-  <li> 1. The Economics of Property</li>
-  <li> 2. The Economics of Torts</li>
-  <li> 3. The Economics of Contracts</li>
-  <li> 4. The Economics of Dispute Resolution</li>
-  <li> 5. The Economics of the Legal System </li>
-  <li> 6. The Economics of Crime and Punishment</li>
-  <li> 7. The Economics of Legislation and Regulation</li>
-  <li> 8. The Economics of Seemingly Absurd Legal Systems</li>
+  <li> 1. </li>
+
 </ul>
 </details>
 
@@ -102,7 +98,7 @@ permalink: /teaching/
   
   <ul class="no-bullets">
     <li> <a href="/assets/documents/Lectures/GreatDepression.pdf">The Great Depression</a></li>
-      <li> <a href="/assets/documents/Lectures/UR_Institutions_Growth.pdf">Institutions and Economic Growth</a></li>
+    <li> <a href="/assets/documents/Lectures/UR_Institutions_Growth.pdf">Institutions and Economic Growth</a></li>
 
 </ul>
 </details>
