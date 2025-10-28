@@ -12,6 +12,17 @@ permalink: /teaching/
   <summary>Global Economic History</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.</p>
   
+     <div style="text-align:center; margin:2.5px 0;">
+  <figure style="display:inline-block; margin:0;">
+    <img src="/assets/images/Coalbrookdale.png" alt="Monet" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+      Coalbrookdale by Night. Philip James de Loutherbourg, 1801.
+    </figcaption>
+  </figure>
+</div>
+  
+
+  
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
   <li> 2. <a href ="/assets/documents/HPE Slides/NWW.pdf">Violence and Social Orders</a></li>
@@ -45,7 +56,7 @@ permalink: /teaching/
   <figure style="display:inline-block; margin:0;">
     <img src="/assets/images/Monet_Cathedral.png" alt="Monet" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      Rouen Cathedral, West Façade, Sunlight. Claude Monet. 1894.
+      Rouen Cathedral, West Façade, Sunlight. Claude Monet, 1894.
     </figcaption>
   </figure>
 </div>
