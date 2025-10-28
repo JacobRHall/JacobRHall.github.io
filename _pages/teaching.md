@@ -54,12 +54,16 @@ permalink: /teaching/
   
    <div style="text-align:center; margin:2.5px 0;">
   <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/Monet_Cathedral.png" alt="Monet" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <img src="/assets/images/Pieter_Brueghel_the_Younger_-_The_Village_Lawyer's_office.jpg" alt="Brueghel" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      Rouen Cathedral, West Façade, Sunlight. Claude Monet, 1894.
+      The Village Lawyer. Pieter Brueghel the Younger, c.1616
     </figcaption>
   </figure>
 </div>
+
+
+The Peasant Lawyer
+Pieter Brueghel the Youngerca. 1620
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
