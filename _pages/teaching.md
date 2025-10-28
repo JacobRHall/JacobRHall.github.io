@@ -62,8 +62,6 @@ permalink: /teaching/
 </div>
 
 
-The Peasant Lawyer
-Pieter Brueghel the Youngerca. 1620
   
   <ul class="no-bullets">
   <li> 1. The Economics of Property</li>
