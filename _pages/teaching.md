@@ -41,8 +41,8 @@ permalink: /teaching/
   <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
-   <div style="text-align:center; margin:15px 0;">
-    <img src="/assets/images/Monet_Cathedral.png" alt="Monet" style="max-width:90%; height:auto; border:1px solid #ccc; border-radius:4px;">
+   <div style="text-align:center; margin:10px 0;">
+    <img src="/assets/images/Monet_Cathedral.png" alt="Monet" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
   </div>
   
   <ul class="no-bullets">
