@@ -32,7 +32,7 @@ permalink: /research/
 
 ## Refereed Publications
 
-**[Why Lords Went for Luxuries]\\
+**Why Lords Went for Luxuries\\
 (with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
 *The Independent Review, Forthcoming Spring 2026*, 
 
