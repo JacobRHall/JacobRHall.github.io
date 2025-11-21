@@ -31,11 +31,10 @@ permalink: /research/
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and [Henry Thompson](https://www.henryathompson.com))
 
 ## Refereed Publications
-<!--
-**[Why Lords Went for Luxuries: A Riff on Adam Smith]\\
+
+**[Why Lords Went for Luxuries]\\
 (with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
-*The Independent Review*, 2025
--->
+*The Independent Review, Forthcoming Spring 2026*, 
 
 **[Did the Great Leveling Begin After 1921?](https://www.tandfonline.com/doi/full/10.1080/03585522.2025.2472936?scroll=top&needAccess=true)** \\
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
