@@ -142,7 +142,7 @@ permalink: /teaching/
 <style>
   details.accordion {
     margin-top: 10px;
-    background-color: #f1f1f1;
+    background-color: #f1f1f1; 
     border: none;
     border-left: 3px solid #ccc;
     padding: 0;
