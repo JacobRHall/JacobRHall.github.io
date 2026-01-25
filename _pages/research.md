@@ -16,7 +16,7 @@ permalink: /research/
 <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
-**The King's French: The Political Economy of Language**\\
+**[The King's French: The Political Economy of Language](https://www.dropbox.com/scl/fi/tw1x9etonh6vlwdj303zz/kings_french_current.pdf?rlkey=rsnpzi1vzpbnx0ev2fv9p64hj&e=1&st=hz5fwmgw&dl=0)**\\
 (with [Alexander Taylor](https://alexntaylor.github.io))
 
 ## Selected Works in Progress
