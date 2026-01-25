@@ -16,13 +16,13 @@ permalink: /research/
 <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
+**The King's French: The Political Economy of Language**\\
+(with [Alexander Taylor](https://alexntaylor.github.io))
+
 ## Selected Works in Progress
 
 **Islam, Trade, and the Rise of Northwestern Europe**\\
 (with [Marcus Shera](https://www.marcusshera.com))
-
-**The King's French: The Political Economy of Language**\\
-(with [Alexander Taylor](https://alexntaylor.github.io))
 
 **The Spanish Inquisition** \\
 (with [Patrick Fitzsimmons](https://www.patrubenfitz.com) and [Henry Thompson](https://www.henryathompson.com))
