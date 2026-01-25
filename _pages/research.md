@@ -13,7 +13,7 @@ permalink: /research/
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))
 
-** <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a> **\\
+<a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">Railroads and American Institutional Change</a>\\
 (with [Slade Mendenhall](https://slademendenhall.com))
 
 **[The King's French: The Political Economy of Language](https://www.dropbox.com/scl/fi/tw1x9etonh6vlwdj303zz/kings_french_current.pdf?rlkey=rsnpzi1vzpbnx0ev2fv9p64hj&e=1&st=hz5fwmgw&dl=0)**\\
@@ -29,10 +29,10 @@ permalink: /research/
 
 ## Refereed Publications
 
-** Travel Speed over the *Longue Durée* **\\
+Travel Speed over the *Longue Durée*\\
 *European Review of Economic History*, forthcoming.
 
-** Why Lords Went for Luxuries **\\
+Why Lords Went for Luxuries\\
 (with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
 *The Independent Review*, forthcoming.
 
