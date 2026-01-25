@@ -11,7 +11,7 @@ permalink: /research/
 **[Itinerant Kings](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473)**
 
 **[Travel Speed over the *Longue Durée*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4635304)** \\
-*Revisions Requested at the European Review of Economic History.*
+*Accepted at the European Review of Economic History.*
 
 **[Magna Carta](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918)** \\
 (with [Mark Koyama](https://mason.gmu.edu/~mkoyama2/About.html) and [Desiree Desierto](https://desireedesierto.com))
@@ -32,18 +32,20 @@ permalink: /research/
 
 ## Refereed Publications
 
-*Why Lords Went for Luxuries\\
-(with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
-The Independent Review, Forthcoming Spring 2026*, 
+* Travel Speed over the *Longue Durée*\\
+*European Review of Economic History*, Forthcoming.
 
-**[Did the Great Leveling Begin After 1921?](https://www.tandfonline.com/doi/full/10.1080/03585522.2025.2472936?scroll=top&needAccess=true)** \\
+* Why Lords Went for Luxuries\\
+(with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
+*The Independent Review*, Forthcoming.
+
+**[Did the Great Leveling Begin After 1921?](https://doi.org/10.1080/03585522.2025.2472936** \\
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
 *Scandinavian Economic History Review*, 2025 
 
-
 **[From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar](https://econjwatch.org/articles/from-hume-to-smith-on-the-common-law-and-english-liberty-a-comment-on-paul-sagar)**\\
-*Econ Journal Watch*, 2022
+*Econ Journal Watch*, 2022.
 
 **[Classical Liberals on ‘Social Justice’](https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428)** \\
 (with [Marcus Shera](https://www.marcusshera.com))\\
-*Economic Affairs*, 2020
+*Economic Affairs*, 2020.
