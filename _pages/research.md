@@ -29,10 +29,10 @@ permalink: /research/
 
 ## Refereed Publications
 
-Travel Speed over the *Longue Durée*\\
+** Travel Speed over the *Longue Durée* **\\
 *European Review of Economic History*, forthcoming.
 
-Why Lords Went for Luxuries\\
+** Why Lords Went for Luxuries **\\
 (with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
 *The Independent Review*, forthcoming.
 
