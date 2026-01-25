@@ -30,11 +30,11 @@ permalink: /research/
 ## Refereed Publications
 
 Travel Speed over the *Longue Durée*\\
-*European Review of Economic History*, Forthcoming.
+*European Review of Economic History*, forthcoming.
 
 Why Lords Went for Luxuries\\
 (with [Daniel B. Klein](https://econfaculty.gmu.edu/klein/))\\
-*The Independent Review*, Forthcoming.
+*The Independent Review*, forthcoming.
 
 **[Did the Great Leveling Begin After 1921?](https://doi.org/10.1080/03585522.2025.2472936)** \\
 (with [Vincent Geloso](https://vincentgeloso.com) and [Patrick Fitzsimmons](https://www.patrubenfitz.com)) \\
