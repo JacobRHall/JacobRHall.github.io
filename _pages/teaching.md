@@ -39,7 +39,7 @@ permalink: /teaching/
 
 <details class="accordion accordion-history">
   <summary>Global Economic History</summary>
-  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
+  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material. The course title is </p>
   
      <div style="text-align:center; margin:10px 0;">
   <figure style="display:inline-block; margin:0;">
@@ -200,7 +200,7 @@ details.accordion-darkside summary {
 }
 
 details.accordion-law {
-  background-color: #9DB2A7; /* light green background */
+  background-color: #9DB2A7; 
   border-left: 3px solid #2e7d32;
 }
 
