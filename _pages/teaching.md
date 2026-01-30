@@ -10,7 +10,7 @@ permalink: /teaching/
 
 
 <details class="accordion accordion-law">
-  <summary>Lectures on Jurisprudence</summary>
+  <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
    <div style="text-align:center; margin:5px 0;">
@@ -38,7 +38,7 @@ permalink: /teaching/
 
 
 <details class="accordion accordion-history">
-  <summary>The Wealth of Nations</summary>
+  <summary>How the World Became Rich</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material. The course title is </p>
   
      <div style="text-align:center; margin:10px 0;">
