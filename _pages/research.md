@@ -24,7 +24,8 @@ permalink: /research/
 <details class="accordion">
   <summary>Railroads and American Institutional Change</summary>
   <p>(with <a href="https://slademendenhall.com">Slade Mendenhall</a>)</p>
-  <p><a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">PDF</a></p>
+  <p><a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">[Latest Draft]</a></p>
+  <p> Abstract: For roughly 800 years, "legislation" largely meant special legislation: narrow bills tailored to the demands of particular persons, firms, or property. General laws were greeted with suspicion. Today, the reverse is true: it is believed that laws, to be good, must be broad, and states have overwhelmingly banned special bills. This article reconceives of this history, understanding special legislation and the modern administrative state as substitutes. It argues that, contrary to the accompanying anti-corruption rhetoric, the refashioning of legislation as it had always existed was born of politicians' desire to create and extract rents made possible by the 19th-century transportation boom. The emergence of the administrative state and the growth of American state capacity are thus understood as the endogenous fruits of industrialization. </p>
 </details>
 
 <details class="accordion">
