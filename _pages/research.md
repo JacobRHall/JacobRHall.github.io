@@ -4,14 +4,8 @@ date:   2026-01-30 16:00:00 -0500
 permalink: /research/
 ---
 
-img[alt="Picasso"]::after {
-  content: "Pablo Picasso, Bull series";
-  display: block;
-  font-size: 14px;
-  color: #555;
-  margin-top: 6px;
-  text-align: center;
-}
+![Picasso](/assets/images/\bulls.png)
+
 
 ## Working Papers
 
