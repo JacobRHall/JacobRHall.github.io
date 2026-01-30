@@ -38,8 +38,8 @@ permalink: /teaching/
 
 
 <details class="accordion accordion-history">
-  <summary>How the World Became Rich</summary>
-  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material. The course title is </p>
+  <summary>Global Economic History</summary>
+  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
   
      <div style="text-align:center; margin:10px 0;">
   <figure style="display:inline-block; margin:0;">
@@ -85,7 +85,7 @@ permalink: /teaching/
 </ul>
 </details>
 
-
+<!--
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. It is a mix of industrial organization, transactions costs economics, and business history. I will link to the slidedecks as I develop the material. </p> 
@@ -116,7 +116,7 @@ permalink: /teaching/
 
 </ul>
 </details>
-
+-->
 
 ## Various Talks and Lectures
 
@@ -130,7 +130,7 @@ permalink: /teaching/
 </ul>
 </details>
 
-
+<!--
 <details class="accordion accordion-darkside">
   <summary>Lectures on the Dark Side of the Force</summary>
   
@@ -144,8 +144,7 @@ permalink: /teaching/
   <li>7. The Economics of Crime and Punishment</li>
 </ul>
 </details>
-
-
+-->
 
 
 
