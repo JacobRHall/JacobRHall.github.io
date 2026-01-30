@@ -84,10 +84,13 @@ permalink: /research/
 </details>
 
 <details class="accordion">
-  <summary>Classical Liberals on ‘Social Justice’</summary>
+  <summary>
+  <span>Classical Liberals on ‘Social Justice’</span><br>
+  <span><em>Economic Affairs</em>, 2020. </span>
+  </summary>
   <p>(with <a href="https://www.marcusshera.com">Marcus Shera</a>)</p>
-  <p><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428">Journal link</a></p>
-  <p><em>Economic Affairs</em>, 2020</p>
+  <p> <strong>Abstract:</strong> In the summer of 2019, The Independent Review published a symposium on classical liberalism and social justice. We give an overview and commentary on the symposium papers. Rather than adopting the term social justice, we recommend returning to the three senses of justice maintained by Adam Smith and explained by Daniel Klein (2019). We articulate and explore Smith’s tripartite understanding of justice in contrast with an understanding that gives place to the expression social justice. Smith’s tri-layered understanding is in the spirit of addressing the micro-foundations of macrophenomena, the spirit of Thomas Schelling’s Micromotives and Macrobehavior. </p>
+  <p> Read the article <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428">here</a>.</p>
 </details>
 
 <style>
