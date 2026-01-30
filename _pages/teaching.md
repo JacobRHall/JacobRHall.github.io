@@ -10,7 +10,7 @@ permalink: /teaching/
 
 
 <details class="accordion accordion-law">
-  <summary>Law and Economics</summary>
+  <summary>Lectures on Jurisprudence</summary>
    <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
    <div style="text-align:center; margin:5px 0;">
@@ -38,7 +38,7 @@ permalink: /teaching/
 
 
 <details class="accordion accordion-history">
-  <summary>Global Economic History</summary>
+  <summary>The Wealth of Nations</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material. The course title is </p>
   
      <div style="text-align:center; margin:10px 0;">
@@ -76,6 +76,15 @@ permalink: /teaching/
 </details>
 
 
+<details class="accordion">
+  <summary>Can We Rule Ourselves?</summary>
+  <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. It is a mix of industrial organization, transactions costs economics, and business history. I will link to the slidedecks as I develop the material. </p> 
+  
+<ul class="no-bullets">
+  <li>1. </li>
+</ul>
+</details>
+
 
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
@@ -109,7 +118,6 @@ permalink: /teaching/
 </details>
 
 
-
 ## Various Talks and Lectures
 
 <details class="accordion">
@@ -136,6 +144,9 @@ permalink: /teaching/
   <li>7. The Economics of Crime and Punishment</li>
 </ul>
 </details>
+
+
+
 
 
 <style>
