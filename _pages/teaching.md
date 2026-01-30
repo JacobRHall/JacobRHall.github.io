@@ -214,7 +214,7 @@ details.accordion-law summary {
 }
 
 details.accordion-history {
-  background-color: #F3B777;
+  background-color: #F6C189;
   border-left: 3px solid #e67e22;
 }
 
