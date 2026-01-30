@@ -1,6 +1,6 @@
 ---
 title:  "Research"
-date:   2026-01-25 16:00:00 -0500
+date:   2026-01-30 16:00:00 -0500
 permalink: /research/
 ---
 
@@ -79,7 +79,7 @@ permalink: /research/
   <span><em>Econ Journal Watch</em>, 2022. </span>
   </summary>
  <p> <strong>Abstract:</strong> Paul Sagar, in his 2021 Political Theory article “On the Liberty of the English: Adam Smith’s Reply to Montesquieu and Hume,” discusses the role that the common law plays in Smith’s account of English liberty. In doing so he fashions something of a divide between Smith and David Hume with respect to their views on the development of liberty in England. As I see it, the divide between Smith and Hume is less than Sagar suggests, if it exists at all. I highlight Hume’s discussions of English common law in his History of England. In doing so, I make more apparent the shared sentiments between Hume and Smith on the importance of the legal system for the development of English liberty. Rather than replying to Hume, Smith should be seen as developing on Hume’s ideas and disseminating the results, by way of both his Glasgow classroom and The Wealth of Nations. Not once does Sagar cite volumes 1 and 2 of Hume’s History of England, though they contain much that dovetails with and no doubt fed Smith’s interpretations. </p>
-  <p> Read the article<a href="https://econjwatch.org/articles/from-hume-to-smith-on-the-common-law-and-english-liberty-a-comment-on-paul-sagar">here</a>.</p>
+  <p> Read the article <a href="https://econjwatch.org/articles/from-hume-to-smith-on-the-common-law-and-english-liberty-a-comment-on-paul-sagar">here</a>.</p>
 
 </details>
 
@@ -113,7 +113,6 @@ permalink: /research/
     font-size: 16px;
     list-style: none;
     font-weight: bold;
-    color: #000;
   }
 
   details.accordion summary::-webkit-details-marker {
