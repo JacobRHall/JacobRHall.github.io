@@ -8,9 +8,38 @@ permalink: /teaching/
 
 ## Courses
 
+
+<details class="accordion accordion-law">
+  <summary>Law and Economics</summary>
+   <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
+  
+   <div style="text-align:center; margin:5px 0;">
+  <figure style="display:inline-block; margin:0;">
+    <img src="/assets/images/Pieter_Brueghel_the_Younger_-_The_Village_Lawyer's_office.jpg" alt="Brueghel" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+      The Village Lawyer. Pieter Brueghel the Younger, c.1616
+    </figcaption>
+  </figure>
+</div>
+
+
+  
+  <ul class="no-bullets">
+  <li> 1. The Economics of Property</li>
+  <li> 2. The Economics of Torts</li>
+  <li> 3. The Economics of Contracts</li>
+  <li> 4. The Economics of Dispute Resolution</li>
+  <li> 5. The Economics of the Legal System </li>
+  <li> 6. The Economics of Crime and Punishment</li>
+  <li> 7. The Economics of Legislation and Regulation</li>
+  <li> 8. The Economics of Seemingly Absurd Legal Systems</li>
+</ul>
+</details>
+
+
 <details class="accordion">
   <summary>Global Economic History</summary>
-  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and political economy. I will link to the slidedecks as I develop the material.</p>
+  <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
   
      <div style="text-align:center; margin:10px 0;">
   <figure style="display:inline-block; margin:0;">
@@ -45,33 +74,6 @@ permalink: /teaching/
   <li> 19. Catching Up, Falling Behind</li>
   <li> 20. Life and Death in the People's Republics</li>
   <li> 21. America in the Twentieth Century</li>
-</ul>
-</details>
-
-<details class="accordion">
-  <summary>Law and Economics</summary>
-   <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
-  
-   <div style="text-align:center; margin:5px 0;">
-  <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/Pieter_Brueghel_the_Younger_-_The_Village_Lawyer's_office.jpg" alt="Brueghel" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
-    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      The Village Lawyer. Pieter Brueghel the Younger, c.1616
-    </figcaption>
-  </figure>
-</div>
-
-
-  
-  <ul class="no-bullets">
-  <li> 1. The Economics of Property</li>
-  <li> 2. The Economics of Torts</li>
-  <li> 3. The Economics of Contracts</li>
-  <li> 4. The Economics of Dispute Resolution</li>
-  <li> 5. The Economics of the Legal System </li>
-  <li> 6. The Economics of Crime and Punishment</li>
-  <li> 7. The Economics of Legislation and Regulation</li>
-  <li> 8. The Economics of Seemingly Absurd Legal Systems</li>
 </ul>
 </details>
 
@@ -196,6 +198,20 @@ details.accordion-darkside[open] {
 
 details.accordion-darkside summary {
   color: #990000;
+  font-weight: bold;
+}
+
+details.accordion-law {
+  background-color: #9DB2A7; /* light green background */
+  border-left: 3px solid #2e7d32;
+}
+
+details.accordion-law[open] {
+  background-color: #dff0e5;
+}
+
+details.accordion-law summary {
+  color: #1b5e20;
   font-weight: bold;
 }
 
