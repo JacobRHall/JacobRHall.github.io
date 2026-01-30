@@ -37,7 +37,7 @@ permalink: /teaching/
 </details>
 
 
-<details class="accordion">
+<details class="accordion accordion-history">
   <summary>Global Economic History</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
   
@@ -209,7 +209,23 @@ details.accordion-law[open] {
 }
 
 details.accordion-law summary {
+  color: #000;
   font-weight: bold;
 }
+
+details.accordion-history {
+  background-color: #F3B777;
+  border-left: 3px solid #e67e22;
+}
+
+details.accordion-history[open] {
+  background-color: #ffe5d1;
+}
+
+details.accordion-history summary {
+  color: #000;   /* keep text black */
+  font-weight: bold;
+}
+
 
 </style>
