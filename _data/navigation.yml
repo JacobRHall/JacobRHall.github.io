@@ -9,7 +9,7 @@ main:
   - title: "Teaching"
     url: /teaching/
   - title: "ASRG"
-  - url: /asrg/
+    url: /asrg/
   - title: "Links"
     url: /links/
   # - title: "Resources"
