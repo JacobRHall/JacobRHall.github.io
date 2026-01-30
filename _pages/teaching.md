@@ -209,7 +209,6 @@ details.accordion-law[open] {
 }
 
 details.accordion-law summary {
-  color: #000;
   font-weight: bold;
 }
 
@@ -223,7 +222,6 @@ details.accordion-history[open] {
 }
 
 details.accordion-history summary {
-  color: #000;   /* keep text black */
   font-weight: bold;
 }
 
