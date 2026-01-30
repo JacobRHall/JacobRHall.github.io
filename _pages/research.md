@@ -33,7 +33,7 @@ permalink: /research/
   <p>(with <a href="https://alexntaylor.github.io">Alexander Taylor</a>)</p>
   <p> <strong>Abstract:</strong> This paper investigates the impact of state-building on linguistic transition and standardization in Early Modern France. Using the Universal Short Title Catalogue, we construct a city-decade panel of printing activity in European cities from 1500 to 1650. We then estimate the impact of the Ordinance of Villers-Cotterêts, an ordinance requiring the use of French—rather than Latin—in all legal documents, on French language printing using a difference-in-discontinuities design. Results suggest that the ordinance had spillover effects on non-legal printed materials, promoting the general use of vernacular language in print. The findings have implications for the role of the state in shaping national identity and the legibility of the law.</p>
   
-  <p> Read the latest draft <a href="https://www.dropbox.com/scl/fi/tw1x9etonh6vlwdj303zz/kings_french_current.pdf?rlkey=rsnpzi1vzpbnx0ev2fv9p64hj&e=1&st=hz5fwmgw&dl=0">here</a></p>
+  <p> Read the latest draft <a href="https://www.dropbox.com/scl/fi/tw1x9etonh6vlwdj303zz/kings_french_current.pdf?rlkey=rsnpzi1vzpbnx0ev2fv9p64hj&e=1&st=hz5fwmgw&dl=0">here</a>.</p>
 </details>
 
 ## Selected Works in Progress
