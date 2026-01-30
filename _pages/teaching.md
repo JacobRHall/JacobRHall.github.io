@@ -50,8 +50,6 @@ permalink: /teaching/
   </figure>
 </div>
   
-
-  
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
   <li> 2. <a href ="/assets/documents/HPE Slides/NWW.pdf">Violence and Social Orders</a></li>
@@ -211,7 +209,6 @@ details.accordion-law[open] {
 }
 
 details.accordion-law summary {
-  color: #1b5e20;
   font-weight: bold;
 }
 
