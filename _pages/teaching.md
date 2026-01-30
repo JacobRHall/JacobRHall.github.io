@@ -147,7 +147,6 @@ permalink: /teaching/
 -->
 
 
-
 <style>
   details.accordion {
     margin-top: 10px;
