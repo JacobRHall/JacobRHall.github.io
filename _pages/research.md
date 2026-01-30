@@ -31,7 +31,7 @@ permalink: /research/
 <details class="accordion">
   <summary>The King's French: The Political Economy of Language</summary>
   <p>(with <a href="https://alexntaylor.github.io">Alexander Taylor</a>)</p>
-  <p <strong>Abstract:</strong> This paper investigates the impact of language mandates on linguistic transition, standardization, and national identity in Early Modern France. Using the Universal Short Title Catalogue, we construct a panel of printing activity in European towns from 1500 to 1650. We then estimate the impact of the Ordinance of Villers-Cotterêts, an ordinance requiring the use of French, as opposed to Latin, in all legal documents, on vernacular language printing in France using a difference-in-discontinuities design. To account for the influence of religion on vernacular printing, we leverage a Large Language Model to classify selected authors from the time period as Protestant or Catholic and control for religious print output. Results suggest that the ordinance promoted the general use of vernacular language in print and led to an explosion of vernacular printing within France. We also study the impact of the ordinance on linguistic standardization, finding that the ordinance homogenized printed French to Parisian French standards, but only within France. To explore the long-run effects of language promotion and standardization on national identity, we estimate the impact of the ordinance on expressions of nationalism in the Cahiers de Doleances —a collection of grievances and suggestions filed by the three Estates on the eve of the French Revolution—finding more expressions of nationalism in Third Estate cahiers from print towns originally subjected to the ordinance. The findings have implications for the role of the state in shaping national identity, the legibility of the law, and the spread of ideas through language policy.
+  <p> <strong>Abstract:</strong> This paper investigates the impact of language mandates on linguistic transition, standardization, and national identity in Early Modern France. Using the Universal Short Title Catalogue, we construct a panel of printing activity in European towns from 1500 to 1650. We then estimate the impact of the Ordinance of Villers-Cotterêts, an ordinance requiring the use of French, as opposed to Latin, in all legal documents, on vernacular language printing in France using a difference-in-discontinuities design. To account for the influence of religion on vernacular printing, we leverage a Large Language Model to classify selected authors from the time period as Protestant or Catholic and control for religious print output. Results suggest that the ordinance promoted the general use of vernacular language in print and led to an explosion of vernacular printing within France. We also study the impact of the ordinance on linguistic standardization, finding that the ordinance homogenized printed French to Parisian French standards, but only within France. To explore the long-run effects of language promotion and standardization on national identity, we estimate the impact of the ordinance on expressions of nationalism in the Cahiers de Doleances —a collection of grievances and suggestions filed by the three Estates on the eve of the French Revolution—finding more expressions of nationalism in Third Estate cahiers from print towns originally subjected to the ordinance. The findings have implications for the role of the state in shaping national identity, the legibility of the law, and the spread of ideas through language policy.
   
   <p> See the latest draft <a href="https://www.dropbox.com/scl/fi/tw1x9etonh6vlwdj303zz/kings_french_current.pdf?rlkey=rsnpzi1vzpbnx0ev2fv9p64hj&e=1&st=hz5fwmgw&dl=0">here</a></p>
 </details>
@@ -51,21 +51,26 @@ permalink: /research/
 ## Refereed Publications
 
 <details class="accordion">
-  <summary>Travel Speed over the <em>Longue Durée</em>, European Review of Economic History, forthcoming.</summary>
+  <summary>
+    <span>Travel Speed over the <em>Longue Durée</em></span><br>
+    <span><em>European Review of Economic History</em>, forthcoming.</span>
+  </summary>
   <p><strong>Abstract:</strong> In the premodern world, slow travel speed increased a ruler's governance costs and acted as a barrier to trade. But current estimates of medieval European travel speed are sparse, and the estimates that do exist rely on parsimonious data. Using the daily travel itineraries of medieval kings, I create near-continuous time series of travel speed along roads in England and France over four centuries. Average travel speed along the Medieval roads is estimated to be around 15 to 20 miles per day. Those average estimates remain fairly stable over the entire medieval period, although there is a great amount of heterogeneity at the journey level.</p>
 </details>
 
 <details class="accordion">
-  <summary>Why Lords Went for Luxuries, The Independent Review, forthcoming.</summary>
+<summary>
+    <span>Why Lords Went for Luxuries</span><br>
+    <span><em>The Independent Review</em>, forthcoming.</span>
+  </summary>
   <p>(with <a href="https://econfaculty.gmu.edu/klein/">Daniel B. Klein</a>)</p>
     <p><strong>Abstract:</strong> In Smith’s Wealth of Nations telling of political evolution 1400–1700, he leaves us wondering why lords went for luxuries. They bartered away their armies and power. Drawing on Smith’s Lectures on Jurisprudence, we explain why lords went for luxuries. The center, led by the king and his ministers, fostered new ways for a baron to signal his wealth and value as an ally. A diamond buckle signaled wealth, as did a retinue of 1000 men. But the baron could not bring 1000 rustics along to the pageant, for he alone had been invited. Instead, he brought bling. This explanation, implicating government and politics in the vanity and fetishization of bling, is hinted at in The Wealth of Nations when Smith writes cryptically of “the judges that were to determine the preference.” </p>
 </details>
 
 <details class="accordion">
-  <summary>Did the Great Leveling Begin After 1921?</summary>
+  <summary>Did the Great Leveling Begin After 1921?, Scandinavian Economic History Review, 2025.</summary>
   <p>(with <a href="https://vincentgeloso.com">Vincent Geloso</a> and <a href="https://www.patrubenfitz.com">Patrick Fitzsimmons</a>)</p>
   <p><a href="https://doi.org/10.1080/03585522.2025.2472936">Journal link (DOI)</a></p>
-  <p><em>Scandinavian Economic History Review</em>, 2025</p>
 </details>
 
 <details class="accordion">
