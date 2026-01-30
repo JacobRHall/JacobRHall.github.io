@@ -4,9 +4,8 @@ date:   2025-12-20 16:00:00 -0500
 permalink: /asrg/
 ---
 
-![Becker](/assets/images/Becker_crop.jpg)
+![Smith](/assets/images/AdamSmith.jpg)
 
-## Courses
 
 <p> I co-lead a seminar-style reading group with my Chase Center colleague, John Thrasher. The group reads the works of Adam Smith, David Hume, and other great liberal thinkers in philosophy, politics, and economics.</p>
 
