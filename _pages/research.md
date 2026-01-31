@@ -5,7 +5,12 @@ permalink: /research/
 ---
 
 <figure style="text-align:center; margin-bottom: 20px;">
-  <img src="/assets/images/RL_Brushstroke2.png" alt="Roy Lichtenstein brushstroke" style="max-width: 600px; width: 100%;">
+  <img src="/assets/images/RL_Brushstroke2.png"
+       alt="Roy Lichtenstein brushstroke"
+       style="max-width: 420px; width: 100%;">
+  <figcaption style="font-size:13px; color:#666; margin-top:5px;">
+    Big Painting No. 6, Roy Lichtenstein, 1965.
+  </figcaption>
 </figure>
 
 ## Working Papers
