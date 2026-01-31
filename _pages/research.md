@@ -14,9 +14,9 @@ permalink: /research/
          width: 100%;
          height: auto;
        ">
-  <figcaption style="font-size:13px; color:#666; margin-top:5px;">
-  <em>Big Painting No. 6</em>, Roy Lichtenstein, 1965
-</figcaption>
+  <figcaption style="font-size:13px; color:#666; margin-top:5px; text-align:center;">
+    <em>Big Painting No. 6</em>, Roy Lichtenstein, 1965
+  </figcaption>
 </figure>
 
 ## Working Papers
