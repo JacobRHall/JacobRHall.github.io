@@ -3,19 +3,22 @@ title:  "Research"
 date:   2026-01-30 16:00:00 -0500
 permalink: /research/
 ---
-<figure style="max-width: 650px; margin: 10px auto 20px; text-align:center;">
+<div style="text-align:center; margin:10px 0;">
+<figure style="text-align:center; margin-bottom: 20px;">
   <img src="/assets/images/RL_Brushstroke2.png"
        alt="Roy Lichtenstein brushstroke"
        style="
          display: block;
+         margin: 0 auto;
+         max-width: 650px;
          width: 100%;
          height: 300px;
-         object-fit: contain;
        ">
-  <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+  <figcaption style="font-size:14px; color:#555; margin-top:5px; text-align:center;">
     Big Painting No. 6, Roy Lichtenstein, 1965
   </figcaption>
 </figure>
+</div>
 
 ## Working Papers
 
