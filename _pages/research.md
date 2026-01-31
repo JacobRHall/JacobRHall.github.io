@@ -4,7 +4,7 @@ date:   2026-01-30 16:00:00 -0500
 permalink: /research/
 ---
 
-![Picasso](/assets/images/\bulls.png)
+![Picasso](/assets/images/\RL_Brushstroke.png)
 
 
 ## Working Papers
