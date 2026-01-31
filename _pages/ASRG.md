@@ -13,3 +13,4 @@ permalink: /asrg/
 <p> We are currently making our way through Adam Smith's <em>The Wealth of Nations</em> in celebration of the 250th anniversary of its publication.</p>
 
 
+
