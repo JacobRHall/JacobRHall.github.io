@@ -4,8 +4,9 @@ date:   2026-01-30 16:00:00 -0500
 permalink: /research/
 ---
 
-![Lichtenstein](/assets/images/\RL_Brushstroke2.png)
-
+<figure style="text-align:center; margin-bottom: 20px;">
+  <img src="/assets/images/RL_Brushstroke2.png" alt="Roy Lichtenstein brushstroke" style="max-width: 600px; width: 100%;">
+</figure>
 
 ## Working Papers
 
