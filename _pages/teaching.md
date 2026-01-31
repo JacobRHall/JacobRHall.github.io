@@ -75,6 +75,7 @@ permalink: /teaching/
 </ul>
 </details>
 
+<!--
 
 <details class="accordion">
   <summary>Can We Rule Ourselves?</summary>
@@ -85,7 +86,7 @@ permalink: /teaching/
 </ul>
 </details>
 
-<!--
+
 <details class="accordion">
   <summary>Leadership and Managerial Dilemmas</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on leadership and managerial dilemmas. It is built around Gary Miller's 1992 book, <a href="https://www.amazon.com/Managerial-Dilemmas-Political-Hierarchy-Institutions/dp/0521457696" target="_blank">Managerial Dilemmas: The Political Economy of Hierarchy</a>. It is a mix of industrial organization, transactions costs economics, and business history. I will link to the slidedecks as I develop the material. </p> 

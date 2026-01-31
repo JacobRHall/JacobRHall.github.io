@@ -10,6 +10,6 @@ permalink: /asrg/
 
 <p> To practice and encourage dwelling in great minds, I co-lead a seminar-style reading group with my Chase Center colleague, <a href="https://www.johnjthrasher.com">John Thrasher</a>. The group reads the works of Adam Smith, David Hume, and other great liberal thinkers in philosophy, politics, and economics.</p>
 
-<p> We are currently making our way through Adam Smith's <em>The Wealth of Nations</em> in celebration of the 250th anniversary of its publication. </p>
+<p> We are currently making our way through Adam Smith's <em>The Wealth of Nations</em> in celebration of the 250th anniversary of its publication.</p>
 
 
