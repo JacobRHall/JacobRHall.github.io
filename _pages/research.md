@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <div style="margin:10px 0; text-align:center;">
   <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/RL_Brushstroke2.png"
+    <img src="/assets/images/RL_Brushstrokes_Remix.png"
          alt="Roy Lichtenstein brushstroke"
          style="
            display:block;
