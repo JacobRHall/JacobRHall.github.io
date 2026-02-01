@@ -4,7 +4,19 @@ date:   2025-12-20 16:00:00 -0500
 permalink: /asrg/
 ---
 
-![Smith](/assets/images/RL_liberals.png)
+<div style="text-align:center; margin:10px 0;">
+<figure style="text-align:center; margin-bottom: 20px;">
+  <img src="/assets/images/RL_liberals.png"
+       alt="Roy Lichtenstein liberals"
+       style="
+         display: block;
+         margin: 0 auto;
+         max-width: 650px;
+         width: 100%;
+         height: 300px;
+       ">
+</figure>
+</div>
 
 <p> In the <em>The Study of Man</em> (1950), Michael Polanyi wrote: "To contemplate a person as an ideal is to submit to his authority. ... We need reverence to perceive greatness, even as we need a telescope to observe spiral nebulae". I have great admiration for the great liberal thinkers of the past, namely Adam Smith and David Hume.</p> 
 

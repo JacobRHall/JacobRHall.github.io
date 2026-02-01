@@ -7,7 +7,7 @@ permalink: /teaching/
 <div style="text-align:center; margin:10px 0;">
 <figure style="text-align:center; margin-bottom: 20px;">
   <img src="/assets/images/RL_Apollo.png"
-       alt="Roy Lichtenstein brushstroke"
+       alt="Roy Lichtenstein apollo"
        style="
          display: block;
          margin: 0 auto;
