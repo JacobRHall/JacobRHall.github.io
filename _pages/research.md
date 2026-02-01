@@ -24,32 +24,9 @@ permalink: /research/
 ## Working Papers
 
 <details class="accordion">
-  <summary class="accordion-summary">
-    <span class="accordion-title">Itinerant Kings</span>
-    <img
-      src="/assets/images/brushstroke.png"
-      alt="Itinerant kings illustration"
-      class="accordion-thumb"
-    >
-  </summary>
-
-  <p>
-    <strong>Abstract:</strong>
-    Rather than govern from a fixed capital, medieval European kings were itinerant.
-    I argue that itinerant kingship was a rational coalition-building strategy employed
-    by relatively weak rulers in the face of potentially violent elites. To empirically
-    explore itinerant kingship, I introduce data on the daily location of the English
-    king from 1199 to 1547. Utilizing genealogical data for feudal barons, I show that the
-    king's itinerary targeted “key players” within the elite network to maintain
-    political support. When the Early Modern “military revolution” increased the
-    military power of the king vis-à-vis the elites, European kings adopted stationary
-    governments.
-  </p>
-
-  <p>
-    Read the latest draft
-    <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473">here</a>.
-  </p>
+  <summary>Itinerant Kings</summary>
+  <p> <strong>Abstract:</strong>  Rather than govern from a fixed capital, medieval European kings were itinerant. I argue that itinerant kingship was a rational coalition-building strategy employed by relatively weak rulers in the face of potentially violent elites. To empirically explore itinerant kingship, I introduce data on the daily location of the English king from 1199 to 1547. Utilizing genealogical data for feudal barons, I show that the king's itinerary targeted “key players” within the elite network to maintain political support. When the Early Modern “military revolution” increased the military power of the king vis-à-vis the elites, European kings adopted stationary governments. </p>
+      <p> Read the latest draft <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473">here</a>.</p>
 </details>
 
 <details class="accordion">
@@ -169,25 +146,4 @@ permalink: /research/
   details.accordion a:hover {
     text-decoration: underline;
   }
-  
-  
-  .accordion-summary {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 12px;
-}
-
-.accordion-title {
-  flex: 1;
-}
-
-.accordion-thumb {
-  width: 70px;          /* adjust to taste */
-  height: auto;
-  opacity: 0.9;
-}
-
-
-
 </style>
