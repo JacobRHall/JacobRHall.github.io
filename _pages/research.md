@@ -14,7 +14,7 @@ permalink: /research/
            height:300px;
          ">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      Big Painting No. 6, Roy Lichtenstein, 1965
+      Big Painting No. 6. Roy Lichtenstein, 1965.
     </figcaption>
   </figure>
 </div>

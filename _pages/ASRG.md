@@ -18,7 +18,8 @@ permalink: /asrg/
 </figure>
 </div>
 
-<p> In the <em>The Study of Man</em> (1950), Michael Polanyi wrote: "To contemplate a person as an ideal is to submit to his authority. ... We need reverence to perceive greatness, even as we need a telescope to observe spiral nebulae". I have great admiration for the great liberal thinkers of the past, namely Adam Smith and David Hume.</p> 
+
+<p> In the <em>The Study of Man</em> (1950), Michael Polanyi wrote: "To contemplate a person as an ideal is to submit to his authority. ... We need reverence to perceive greatness, even as we need a telescope to observe spiral nebulae".</p> 
 
 <p> To practice and encourage dwelling in great minds, I co-lead a seminar-style reading group with my Chase Center colleague, <a href="https://www.johnjthrasher.com">John Thrasher</a>. The group reads the works of Adam Smith, David Hume, and other great liberal thinkers in philosophy, politics, and economics.</p>
 

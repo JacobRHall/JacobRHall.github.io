@@ -4,21 +4,20 @@ date:   2025-12-20 16:00:00 -0500
 permalink: /teaching/
 ---
 
-<div style="text-align:center; margin:10px 0;">
-<figure style="text-align:center; margin-bottom: 20px;">
-  <img src="/assets/images/RL_Apollo.png"
-       alt="Roy Lichtenstein apollo"
-       style="
-         display: block;
-         margin: 0 auto;
-         max-width: 650px;
-         width: 100%;
-         height: 300px;
-       ">
-  <figcaption style="font-size:14px; color:#555; margin-top:5px; text-align:center;">
-    Temple of Apollo, Roy Lichtenstein, 1964
-  </figcaption>
-</figure>
+<div style="margin:10px 0; text-align:center;">
+  <figure style="display:inline-block; margin:0;">
+    <img src="/assets/images/RL_Apollo.png"
+         alt="Roy Lichtenstein apollo"
+         style="
+           display:block;
+           max-width:650px;
+           width:100%;
+           height:300px;
+         ">
+    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+      Temple of Apollo. Roy Lichtenstein, 1964.
+    </figcaption>
+  </figure>
 </div>
 
 ## Courses
