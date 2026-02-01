@@ -6,7 +6,7 @@ permalink: /asrg/
 
 <div style="text-align:center; margin:10px 0;">
 <figure style="text-align:center; margin-bottom: 20px;">
-  <img src="/assets/images/RL_liberals.png"
+  <img src="/assets/images/RL_liberals2.png"
        alt="Roy Lichtenstein liberals"
        style="
          display: block;
