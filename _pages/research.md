@@ -5,7 +5,7 @@ permalink: /research/
 ---
 <div style="margin:10px 0; text-align:center;">
   <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/RL_Brushstrokes_Remix.png"
+    <img src="/assets/images/RL_Brushstrokes_Remix2.png"
          alt="Roy Lichtenstein brushstroke"
          style="
            display:block;
@@ -14,7 +14,7 @@ permalink: /research/
            height:300px;
          ">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-            <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=669" style="text-decoration: none; color: inherit;">Big Painting VI. Roy Lichtenstein, 1965.(Remix).</a>
+            <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=669" style="text-decoration: none; color: inherit;">Big Painting VI. Roy Lichtenstein, 1965. (Remix).</a>
     </figcaption>
   </figure>
 </div>
