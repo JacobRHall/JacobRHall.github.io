@@ -13,7 +13,7 @@ permalink: /asrg/
          margin: 0 auto;
          max-width: 650px;
          width: 100%;
-         height: 300px;
+         height: 350px;
        ">
 </figure>
 </div>
