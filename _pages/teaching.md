@@ -15,7 +15,7 @@ permalink: /teaching/
            height:300px;
          ">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      Temple of Apollo. Roy Lichtenstein, 1964.
+      <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=562" style="text-decoration: none; color: inherit;">Temple of Apollo. Roy Lichtenstein, 1964.</a>
     </figcaption>
   </figure>
 </div>
