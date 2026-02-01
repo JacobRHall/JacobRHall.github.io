@@ -169,4 +169,25 @@ permalink: /research/
   details.accordion a:hover {
     text-decoration: underline;
   }
+  
+  
+  .accordion-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.accordion-title {
+  flex: 1;
+}
+
+.accordion-thumb {
+  width: 70px;          /* adjust to taste */
+  height: auto;
+  opacity: 0.9;
+}
+
+
+
 </style>
