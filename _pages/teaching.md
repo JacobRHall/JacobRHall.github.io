@@ -32,11 +32,11 @@ permalink: /teaching/
   <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
     <img src="/assets/images/RL_cathedral1.png"
          alt=""
-         style="width:200px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
+         style="width:1500px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
 
     <img src="/assets/images/RL_cathedral2.png"
          alt=""
-         style="width:200px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
+         style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
   </div>
 
   <div style="font-size:14px; color:#555; margin-top:6px; text-align:center;">
