@@ -73,7 +73,7 @@ permalink: /teaching/
   <figure style="margin:0; text-align:center;">
     <img src="/assets/images/RL_temple2.png"
          alt=""
-         style="width:250px; height:300px; object-fit:contain; border:none; border-radius:0; display:block;">
+         style="width:150px; height:300px; object-fit:contain; border:none; border-radius:0; display:block;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
       Temple II. Roy Lichtenstein, 1965.
     </figcaption>
@@ -82,7 +82,7 @@ permalink: /teaching/
   <figure style="margin:0; text-align:center;">
     <img src="/assets/images/RL_radio.png"
          alt=""
-         style="width:250px; height:300px; object-fit:contain; border:none; border-radius:0; display:block;">
+         style="width:150px; height:300px; object-fit:contain; border:none; border-radius:0; display:block;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
       Transistor Radio. Roy Lichtenstein, 1961.
     </figcaption>
