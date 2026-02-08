@@ -68,14 +68,29 @@ permalink: /teaching/
   <summary>Global Economic History</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
   
-     <div style="text-align:center; margin:10px 0;">
-  <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/Coalbrookdale.png" alt="Monet" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <div style="display:flex; justify-content:center; gap:24px; margin:10px 0;">
+
+  <figure style="margin:0; text-align:center;">
+    <img src="RL_temple2.png"
+         alt="left panel"
+         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      Coalbrookdale by Night. Philip James de Loutherbourg, 1801.
+      Left caption text
     </figcaption>
   </figure>
+
+  <figure style="margin:0; text-align:center;">
+    <img src="RL_radio.png"
+         alt="right panel"
+         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+      Right caption text
+    </figcaption>
+  </figure>
+
 </div>
+    
+    
   
 <ul class="no-bullets">
   <li> 1. <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
