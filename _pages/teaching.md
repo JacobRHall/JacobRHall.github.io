@@ -27,19 +27,19 @@ permalink: /teaching/
   <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
-   <div style="text-align:center; margin:10px 0;">
+<div style="text-align:center; margin:10px 0;">
 
-  <div style="display:flex; justify-content:center; gap:24px;">
-    <img src="RL_cathedral1.png"
-         alt="left panel"
-         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+  <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
+    <img src="/assets/images/RL_cathedral1.png"
+         alt=""
+         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
 
-    <img src="RL_cathdral2.png"
-         alt="right panel"
-         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <img src="/assets/images/RL_cathedral2.png"
+         alt=""
+         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
   </div>
 
-  <div style="font-size:14px; color:#555; margin-top:6px;">
+  <div style="font-size:14px; color:#555; margin-top:6px; text-align:center;">
     Rouen Cathedral, Set II. Roy Lichtenstein, 1969.
   </div>
 
