@@ -37,6 +37,10 @@ permalink: /teaching/
     <img src="/assets/images/RL_cathedral2.png"
          alt=""
          style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
+         
+    <img src="/assets/images/RL_cathedral3.png"
+         alt=""
+         style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
   </div>
 
   <div style="font-size:14px; color:#555; margin-top:6px; text-align:center;">
