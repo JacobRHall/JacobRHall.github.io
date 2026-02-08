@@ -32,7 +32,7 @@ permalink: /teaching/
   <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
     <img src="/assets/images/RL_cathedral1.png"
          alt=""
-         style="width:1500px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
+         style="width:150px; height:auto; border:1px solid #ccc; border-radius:4px; display:block;">
 
     <img src="/assets/images/RL_cathedral2.png"
          alt=""
