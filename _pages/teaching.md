@@ -74,9 +74,9 @@ permalink: /teaching/
          alt="Roy Lichtenstein pyramids"
          style="
            display:block;
-           max-width:650px;
+           max-width:500px;
            width:100%;
-           height:300px;
+           height:230px;
          ">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
       <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=5481" style="text-decoration: none; color: inherit;">Pyramids (Stage Backdrop) (Study). Roy Lichtenstein, 1990.</a>
