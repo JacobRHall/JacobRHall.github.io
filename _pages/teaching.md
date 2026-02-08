@@ -69,10 +69,9 @@ permalink: /teaching/
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
   
     <div style="display:flex; justify-content:center; gap:24px; margin:10px 0;">
-
   <figure style="margin:0; text-align:center;">
-    <img src="RL_temple2.png"
-         alt="left panel"
+    <img src="/assets/images/RL_temple2.png"
+         alt=""
          style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
       Left caption text
@@ -80,8 +79,8 @@ permalink: /teaching/
   </figure>
 
   <figure style="margin:0; text-align:center;">
-    <img src="RL_radio.png"
-         alt="right panel"
+    <img src="/assets/images/RL_radio.png"
+         alt=""
          style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
       Right caption text
