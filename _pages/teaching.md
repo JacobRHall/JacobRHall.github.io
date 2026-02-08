@@ -27,13 +27,22 @@ permalink: /teaching/
   <summary>Law and Economics</summary>
    <p>This set of lecture notes is the backbone of an undergraduate course on law and economics. Many of them have multiple parts. I will link to the slidedecks as I develop the material.</p>
   
-   <div style="text-align:center; margin:5px 0;">
-  <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/RL_cathedrals.png" alt="cathedrals" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
-    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
-      The Village Lawyer. Pieter Brueghel the Younger, c.1616
-    </figcaption>
-  </figure>
+   <div style="text-align:center; margin:10px 0;">
+
+  <div style="display:flex; justify-content:center; gap:24px;">
+    <img src="RL_cathedral1.png"
+         alt="left panel"
+         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+
+    <img src="RL_cathdral2.png"
+         alt="right panel"
+         style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+  </div>
+
+  <div style="font-size:14px; color:#555; margin-top:6px;">
+    Rouen Cathedral, Set II. Roy Lichtenstein, 1969.
+  </div>
+
 </div>
 
 
