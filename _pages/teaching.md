@@ -44,7 +44,7 @@ permalink: /teaching/
   </div>
 
   <div style="font-size:14px; color:#555; margin-top:6px; text-align:center;">
-    Rouen Cathedral, Set II. Roy Lichtenstein, 1969.
+    <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=505" style="text-decoration: none; color: inherit;">Rouen Cathedral, Set II. Roy Lichtenstein, 1969.</a>
   </div>
 
 </div>
