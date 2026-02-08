@@ -10,7 +10,7 @@ permalink: /asrg/
          alt="Roy Lichtenstein magnifying glass"
          style="
            display:block;
-           max-width:650px;
+           max-width:300px;
            width:100%;
            height:300px;
          ">
