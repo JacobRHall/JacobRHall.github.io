@@ -4,19 +4,22 @@ date:   2025-12-20 16:00:00 -0500
 permalink: /asrg/
 ---
 
-<div style="text-align:center; margin:10px 0;">
-<figure style="text-align:center; margin-bottom: 20px;">
-  <img src="/assets/images/RL_liberals3.png"
-       alt="Roy Lichtenstein liberals"
-       style="
-         display: block;
-         margin: 0 auto;
-         max-width: 650px;
-         width: 100%;
-         height: 350px;
-       ">
-</figure>
+<div style="margin:10px 0; text-align:center;">
+  <figure style="display:inline-block; margin:0;">
+    <img src="/assets/images/RL_magnifying_glass.png"
+         alt="Roy Lichtenstein magnifying glass"
+         style="
+           display:block;
+           max-width:650px;
+           width:100%;
+           height:300px;
+         ">
+    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+            <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=456" style="text-decoration: none; color: inherit;">Magnifying Glass. Roy Lichtenstein, 1963..</a>
+    </figcaption>
+  </figure>
 </div>
+
 
 
 <p> "To contemplate a person as an ideal is to submit to his authority. ... We need reverence to perceive greatness, even as we need a telescope to observe spiral nebulae". -- Michael Polanyi, <em>The Study of Man</em> (1950) </p> 
