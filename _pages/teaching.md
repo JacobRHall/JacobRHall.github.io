@@ -68,17 +68,21 @@ permalink: /teaching/
   <summary>Global Economic History</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
   
-<div style="text-align:center; margin:10px 0;">
-  <figure style="margin:0; text-align:center;">
+<div style="margin:10px 0; text-align:center;">
+  <figure style="display:inline-block; margin:0;">
     <img src="/assets/images/RL_pyramids.png"
-         alt=""
-         style="width:150px; height:300px; object-fit:contain; border:none; border-radius:0; display:block; margin:0 auto;">
-    <figcaption style="font-size:14px; color:#555; margin-top:5px; text-align:center;">
-      Pyramids (Stage Backdrop) (Study). Roy Lichtenstein, 1990.
+         alt="Roy Lichtenstein pyramids"
+         style="
+           display:block;
+           max-width:650px;
+           width:100%;
+           height:300px;
+         ">
+    <figcaption style="font-size:14px; color:#555; margin-top:5px;">
+      <a href="https://www.lichtensteincatalogue.org/catalogue/entry.php?id=5481" style="text-decoration: none; color: inherit;">Pyramids (Stage Backdrop) (Study). Roy Lichtenstein, 1990.</a>
     </figcaption>
   </figure>
 </div>
-    
     
   
 <ul class="no-bullets">
