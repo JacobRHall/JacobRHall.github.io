@@ -29,7 +29,7 @@ permalink: /teaching/
   
    <div style="text-align:center; margin:5px 0;">
   <figure style="display:inline-block; margin:0;">
-    <img src="/assets/images/Pieter_Brueghel_the_Younger_-_The_Village_Lawyer's_office.jpg" alt="Brueghel" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
+    <img src="/assets/images/RL_cathedrals.png" alt="cathedrals" style="width:250px; height:auto; border:1px solid #ccc; border-radius:4px;">
     <figcaption style="font-size:14px; color:#555; margin-top:5px;">
       The Village Lawyer. Pieter Brueghel the Younger, c.1616
     </figcaption>
