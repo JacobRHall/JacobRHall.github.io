@@ -1,6 +1,6 @@
 ---
 title:  "Research"
-date:   2026-01-30 16:00:00 -0500
+date:   2026-04-03 16:00:00 -0500
 permalink: /research/
 ---
 <div style="margin:10px 0; text-align:center;">
