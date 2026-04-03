@@ -74,10 +74,7 @@ permalink: /research/
   </summary>
   <p>(with <a href="https://econfaculty.gmu.edu/klein/">Daniel B. Klein</a>)</p>
     <p><strong>Abstract:</strong> In Smith’s Wealth of Nations telling of political evolution 1400–1700, he leaves us wondering why lords went for luxuries. They bartered away their armies and power. Drawing on Smith’s Lectures on Jurisprudence, we explain why lords went for luxuries. The center, led by the king and his ministers, fostered new ways for a baron to signal his wealth and value as an ally. A diamond buckle signaled wealth, as did a retinue of 1000 men. But the baron could not bring 1000 rustics along to the pageant, for he alone had been invited. Instead, he brought bling. This explanation, implicating government and politics in the vanity and fetishization of bling, is hinted at in The Wealth of Nations when Smith writes cryptically of “the judges that were to determine the preference.” </p>
-        <p> Read the published article <a href="https://www.independent.org/tir/2026-spring/why-lords-went-for-luxuries/">here</a>.</p>
-        <p> Find the pre-print <a href="https://www.dropbox.com/scl/fi/r9675jkdvkztsun39awko/Why-Lords-Went-for-Luxuries.pdf?rlkey=d7ev16mwgr9xrt1wotvm6xf93&st=vjbofs3b&dl=0">here</a>.</p>
-        
-        
+        <p> Read the published article <a href="https://www.independent.org/tir/2026-spring/why-lords-went-for-luxuries/">here</a> and the pre-print <a href="https://www.dropbox.com/scl/fi/r9675jkdvkztsun39awko/Why-Lords-Went-for-Luxuries.pdf?rlkey=d7ev16mwgr9xrt1wotvm6xf93&st=vjbofs3b&dl=0">here</a>.</p>
 </details>
 
 <details class="accordion">
