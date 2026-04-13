@@ -62,9 +62,10 @@ permalink: /research/
 <details class="accordion">
   <summary>
     <span>Travel Speed over the <em>Longue Durée</em></span><br>
-    <span><em>European Review of Economic History</em>, forthcoming.</span>
+    <span><em>European Review of Economic History</em>, 2026.</span>
   </summary>
   <p><strong>Abstract:</strong> In the premodern world, slow travel speed increased a ruler's governance costs and acted as a barrier to trade. But current estimates of medieval European travel speed are sparse, and the estimates that do exist rely on parsimonious data. Using the daily travel itineraries of medieval kings, I create near-continuous time series of travel speed along roads in England and France over four centuries. Average travel speed along the Medieval roads is estimated to be around 15 to 20 miles per day. Those average estimates remain fairly stable over the entire medieval period, although there is a great amount of heterogeneity at the journey level.</p>
+  <p> Read the published article <a href="https://doi.org/10.1093/ereh/heag011"> here</a> and the pre-print <a href="https://doi.org/10.1093/ereh/heag011">here </a>.</p>
 </details>
 
 <details class="accordion">
