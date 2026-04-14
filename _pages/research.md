@@ -44,9 +44,10 @@ permalink: /research/
 </details>
 
 <details class="accordion">
-  <summary>The King's French: The Political Economy of Language</summary>
+  <summary>The King's French: The Political Economy of Language and National Identity</summary>
   <p>(with <a href="https://alexntaylor.github.io">Alexander Taylor</a>)</p>
-  <p> <strong>Abstract:</strong> This paper investigates the impact of state-building on linguistic transition and standardization in Early Modern France. Using the Universal Short Title Catalogue, we construct a city-decade panel of printing activity in European cities from 1500 to 1650. We then estimate the impact of the Ordinance of Villers-Cotterêts, an ordinance requiring the use of French—rather than Latin—in all legal documents, on French language printing using a difference-in-discontinuities design. Results suggest that the ordinance had spillover effects on non-legal printed materials, promoting the general use of vernacular language in print. The findings have implications for the role of the state in shaping national identity and the legibility of the law.</p>
+  <p> <strong>Abstract:</strong> We investigate the impact of language policy on linguistic transition, standardization, and national identity in Early Modern France. We construct a panel of printing activity in European towns from 1500 to 1650. Using a geographic difference-in-discontinuities design exploiting the French border, we show that the </em>Ordinance of Villers-Cotterêts</em> of 1539, which made French the official administrative language, caused a dramatic shift away from Latin toward French and homogenized printed French. We then show that the same edict fostered a nationally oriented print culture and that towns with larger shifts toward vernacular printing expressed stronger French national identity on the eve of the Revolution.
+    </p>
 </details>
 
 ## Selected Works in Progress
