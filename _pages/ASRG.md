@@ -25,9 +25,9 @@ permalink: /asrg/
 
 <p> In the Fall 2026 semester, we will be reading Adam Smith's <em>The Theory of Moral Sentiments</em>.</p>
 
-<p><strong>Previous Reading Groups:</strong></p>
+<p><strong>Previous Semesters:</strong></p>
 <ul>
-  <li> Spring 2026: <em>The Wealth of Nations</em> by Adam Smith</li>
+  <li> Spring 2026: <em>The Wealth of Nations</em>, Adam Smith</li>
 </ul>
 
 
