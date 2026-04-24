@@ -21,9 +21,13 @@ permalink: /asrg/
 </div>
 
 
-<p> I co-lead a seminar-style reading group with my colleague <a href="https://www.johnjthrasher.com">John Thrasher</a>. The group reads the works of Adam Smith, David Hume, and other great thinkers in philosophy, politics, and economics.</p>
+<p> I co-lead a reading group with <a href="https://www.johnjthrasher.com">John Thrasher</a>. The group reads the works of Adam Smith, David Hume, and other great thinkers in philosophy, politics, and economics.</p>
 
-<p> We are currently making our way through Adam Smith's <em>The Wealth of Nations</em> in celebration of the 250th anniversary of its publication.</p>
+<p> In the Fall 2026 semester, we will be reading Adam Smith's <em>The Theory of Moral Sentiments</em>.</p>
 
+<p><strong>Previous Reading Groups:</strong></p>
+<ul>
+  <li> Spring 2026: <em>The Wealth of Nations</em> by Adam Smith</li>
+</ul>
 
 
