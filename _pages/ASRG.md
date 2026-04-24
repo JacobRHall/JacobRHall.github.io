@@ -1,6 +1,6 @@
 ---
 title:  "The Adam Smith Reading Group"
-date:   2025-12-20 16:00:00 -0500
+date:   2025-04-24 16:00:00 -0500
 permalink: /asrg/
 ---
 
