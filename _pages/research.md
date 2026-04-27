@@ -24,7 +24,7 @@ permalink: /research/
 ## Working Papers
 
 <details class="accordion">
-  <summary>Itinerant Kings</summary>
+  <summary>Itinerant Kings, <em>R&R</em> at <em>The Journal of Law and Economics</em> </summary>
   <p> <strong>Abstract:</strong>  Rather than govern from a fixed capital, medieval European kings were itinerant. I argue that itinerant kingship was a rational coalition-building strategy employed by relatively weak rulers in the face of potentially violent elites. To empirically explore itinerant kingship, I introduce data on the daily location of the English king from 1199 to 1547. Utilizing genealogical data for feudal barons, I show that the king's itinerary targeted “key players” within the elite network to maintain political support. When the Early Modern “military revolution” increased the military power of the king vis-à-vis the elites, European kings adopted stationary governments. </p>
       <p> Read the latest draft <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4689473">here</a>.</p>
 </details>
