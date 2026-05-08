@@ -36,6 +36,7 @@ permalink: /research/
 <details class="accordion">
   <summary>
   <span>Magna Carta</span><br>
+    <span><em>Revise &amp; Resubmit, Journal of European Economic Association.</em></span>
 </summary>
   <p>(with <a href="https://mason.gmu.edu/~mkoyama2/About.html">Mark Koyama</a> and <a href="https://desireedesierto.com">Desiree Desierto</a>)</p>
   <p><strong>Abstract:</strong>  Magna Carta, a pivotal moment in history, institutionalized constraints on royal power. As an ideal, Magna Carta prescribes an ‘inclusive’ power-sharing arrangement in which the ruler (king) has limited power and elites (barons) have equal rights. It was forged in a feudal environment and fought between a coalition of the king’s loyal barons and a coalition of rebel barons. We derive conditions under which Magna Carta occurs in equilibrium: when the king is extractive; when the initial distribution of power among barons is egalitarian; and when barons have large resources that cannot be easily appropriated by the king. Under these conditions, even the most powerful baron would be willing to change the status quo by leading a rebel coalition to fight for Magna Carta. To provide empirical support, we build a unique dataset of the universe of English barons, their family networks, and their baronies and resources between 1200-1270. </p>
