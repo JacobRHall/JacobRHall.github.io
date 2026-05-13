@@ -1,6 +1,6 @@
 ---
 title:  "Research"
-date:   2026-05-08 16:00:00 -0500
+date:   2026-05-12 16:00:00 -0500
 permalink: /research/
 ---
 <div style="margin:10px 0; text-align:center;">
@@ -114,13 +114,6 @@ permalink: /research/
   <p>(with <a href="https://www.marcusshera.com">Marcus Shera</a>)</p>
   <p> <strong>Abstract:</strong> In the summer of 2019, The Independent Review published a symposium on classical liberalism and social justice. We give an overview and commentary on the symposium papers. Rather than adopting the term social justice, we recommend returning to the three senses of justice maintained by Adam Smith and explained by Daniel Klein (2019). We articulate and explore Smith’s tripartite understanding of justice in contrast with an understanding that gives place to the expression social justice. Smith’s tri-layered understanding is in the spirit of addressing the micro-foundations of macrophenomena, the spirit of Thomas Schelling’s Micromotives and Macrobehavior. </p>
   <p> Read the article <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428">here</a>.</p>
-</details>
-
-
-<details class="accordion">
-  <summary>Popular Writing</summary>
-  <p><em>Publication Name</em>, Year. "Title of Piece." <a href="URL">Link</a>.</p>
-  <p><em>Publication Name</em>, Year. "Title of Piece." <a href="URL">Link</a>.</p>
 </details>
 
 
