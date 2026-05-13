@@ -117,19 +117,15 @@ permalink: /research/
 </details>
 
 
-<details class="section-accordion" open>
-  <summary><h2>Popular Writing</h2></summary>
-
-  <details class="accordion">
-    <summary>Title of Piece</summary>
-    <p><em>Publication Name</em>, Year.</p>
-    <p>Brief description here.</p>
-    <p>Read the article <a href="URL">here</a>.</p>
-  </details>
-
-  <!-- add more pieces here -->
-
+<details class="accordion">
+  <summary>Popular Writing</summary>
+  <p><em>Publication Name</em>, Year. "Title of Piece." <a href="URL">Link</a>.</p>
+  <p><em>Publication Name</em>, Year. "Title of Piece." <a href="URL">Link</a>.</p>
 </details>
+
+
+
+<!-- Style Section -->
 
 <style>
   details.accordion {
@@ -170,24 +166,6 @@ permalink: /research/
     text-decoration: underline;
   }
   
-  
-  details.section-accordion {
-  margin-top: 20px;
-}
-
-details.section-accordion > summary {
-  cursor: pointer;
-  list-style: none;
-}
-
-details.section-accordion > summary::-webkit-details-marker {
-  display: none;
-}
-
-details.section-accordion > summary h2 {
-  display: inline-block;
-  margin: 0;
-}
 
 
 </style>
