@@ -118,8 +118,8 @@ permalink: /research/
 
 ## For the General Reader
 
-- [David Hume on the Common Law and English Liberty](https://www.adamsmithworks.org/documents/hall-hume-common-law-english-liberty) *Adam Smith Works*, June 27, 2022.
-- [‘Raid or Trade? An Economic Model of Indian-White Relations’ by Terry L. Anderson & Fred S. McChesney](https://truthonthemarket.com/2026/05/12/raid-or-trade-an-economic-model-of-indian-white-relations-by-terry-l-anderson-fred-s-mcchesney/) *Truth on the Market*, May 12, 2026.
+- [David Hume on the Common Law and English Liberty.](https://www.adamsmithworks.org/documents/hall-hume-common-law-english-liberty) *Adam Smith Works*, June 27, 2022.
+- [‘Raid or Trade? An Economic Model of Indian-White Relations’ by Terry L. Anderson & Fred S. McChesney.](https://truthonthemarket.com/2026/05/12/raid-or-trade-an-economic-model-of-indian-white-relations-by-terry-l-anderson-fred-s-mcchesney/) *Truth on the Market*, May 12, 2026.
 <!-- Style Section -->
 
 <style>
