@@ -59,11 +59,12 @@ permalink: /teaching/
   <li> 5. The Economics of the Legal System </li>
   <li> 6. The Economics of Crime and Punishment</li>
   <li> 7. The Economics of Legislation and Regulation</li>
-  <li> 8. The Economics of Seemingly Absurd Legal Systems</li>
+  <li> 8. The Economics of the First Amendment</li>
+  <li> 9. The Economics of Seemingly Absurd Legal Systems</li>
 </ul>
 </details>
 
-
+<!-- 
 <details class="accordion accordion-history">
   <summary>Global Economic History</summary>
   <p>This set of lecture notes is the backbone of an undergraduate course on global economic history and economic growth. I will link to the slidedecks as I develop the material.</p>
@@ -110,7 +111,7 @@ permalink: /teaching/
 </ul>
 </details>
 
-<!--
+
 
 <details class="accordion">
   <summary>Can We Rule Ourselves?</summary>
@@ -160,6 +161,8 @@ permalink: /teaching/
   <summary>Lectures in Economic History</summary>
   
   <ul class="no-bullets">
+    <li> <a href="/assets/documents/HPE Slides/MalthusianEconomy.pdf">The Malthusian Economy</a></li>
+    <li> <a href ="/assets/documents/HPE Slides/NWW.pdf">Violence and Social Orders</a></li>
     <li> <a href="/assets/documents/Lectures/GreatDepression.pdf">The Great Depression</a></li>
     <li> <a href="/assets/documents/Lectures/UR_Institutions_Growth.pdf">Institutions and Economic Growth</a></li>
 
