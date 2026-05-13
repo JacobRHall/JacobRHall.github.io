@@ -116,6 +116,21 @@ permalink: /research/
   <p> Read the article <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428">here</a>.</p>
 </details>
 
+
+<details class="section-accordion" open>
+  <summary><h2>Popular Writing</h2></summary>
+
+  <details class="accordion">
+    <summary>Title of Piece</summary>
+    <p><em>Publication Name</em>, Year.</p>
+    <p>Brief description here.</p>
+    <p>Read the article <a href="URL">here</a>.</p>
+  </details>
+
+  <!-- add more pieces here -->
+
+</details>
+
 <style>
   details.accordion {
     margin-top: 10px;
@@ -154,4 +169,25 @@ permalink: /research/
   details.accordion a:hover {
     text-decoration: underline;
   }
+  
+  
+  details.section-accordion {
+  margin-top: 20px;
+}
+
+details.section-accordion > summary {
+  cursor: pointer;
+  list-style: none;
+}
+
+details.section-accordion > summary::-webkit-details-marker {
+  display: none;
+}
+
+details.section-accordion > summary h2 {
+  display: inline-block;
+  margin: 0;
+}
+
+
 </style>
