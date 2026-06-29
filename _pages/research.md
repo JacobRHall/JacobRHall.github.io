@@ -65,15 +65,6 @@ permalink: /research/
   <p> <strong>Working Abstract:</strong> The population of the ancient world was centered around the Mediterranean Sea. But in the eighth century, the new religion of Islam spread rapidly, achieving spiritual and political dominance in the Middle East, North Africa, and the Iberian peninsula. Religious, political, linguistic, and legal differences between Muslims and the existing Christian kingdoms increased transaction costs for trade between the regions. Locations on the Mediterranean coast, formerly well positioned for trade with Egypt, Syria, Anatolia, and the Levant lost trade potential relative to places in Europe that could take advantage of North Sea trade. We use a differences-in-differences approach to show that European urban population with greater market access to the Islamic world shrinks after AD 700 relative to Northern population. </p>
 </details>
 
-<details class="accordion">
-  <summary>Why No Roman Industrial Revolution?</summary>
-
-</details>
-
-<details class="accordion">
-  <summary>The Crime of Suicide: The Law and Economics of <em>Felo de se</em></summary>
-
-</details>
 
 ## Refereed Publications
 
