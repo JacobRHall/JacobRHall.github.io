@@ -80,7 +80,7 @@ permalink: /research/
 <details class="accordion">
 <summary>
     <span>Why Lords Went for Luxuries</span><br>
-    <span><em>The Independent Review</em>, 2026.</span>
+    <span style="color:#BA0C2F"><em>The Independent Review</em>, 2026.</span>
   </summary>
   <p>(with <a href="https://econfaculty.gmu.edu/klein/">Daniel B. Klein</a>)</p>
     <p><strong>Abstract:</strong> In Smith’s Wealth of Nations telling of political evolution 1400–1700, he leaves us wondering why lords went for luxuries. They bartered away their armies and power. Drawing on Smith’s Lectures on Jurisprudence, we explain why lords went for luxuries. The center, led by the king and his ministers, fostered new ways for a baron to signal his wealth and value as an ally. A diamond buckle signaled wealth, as did a retinue of 1000 men. But the baron could not bring 1000 rustics along to the pageant, for he alone had been invited. Instead, he brought bling. This explanation, implicating government and politics in the vanity and fetishization of bling, is hinted at in The Wealth of Nations when Smith writes cryptically of “the judges that were to determine the preference.” </p>
@@ -90,7 +90,7 @@ permalink: /research/
 <details class="accordion">
   <summary>
   <span>Did the Great Leveling Begin After 1921?</span><br>
-  <span><em>Scandinavian Economic History Review</em>, 2025. </span>
+  <span style="color:#BA0C2F"><em>Scandinavian Economic History Review</em>, 2025. </span>
   </summary>
   <p>(with <a href="https://vincentgeloso.com">Vincent Geloso</a> and <a href="https://www.patrubenfitz.com">Patrick Fitzsimmons</a>)</p>
   <p> <strong>Abstract:</strong> The U-Curve of income inequality in the United States is a longstanding stylised fact in economic history. The ‘Great Leveling’ that led to the trough that lasted from the 1940s to the early 1980s is argued by scholars like Piketty and Saez (2003. Income inequality in the United States, 1913–1998. The Quarterly journal of economics, 118(1), 1–41) to have occurred suddenly and precipitously during the 1940s, whereas others such as Geloso et al. (2022. How pronounced is the U-curve? Revisiting income inequality in the United States, 1917–60. The Economic Journal, 132(647), 2366–2391) argue that the levelling was gradual and began with the Great Depression. In this paper, we argue that large regional differences in price levels make it hard to measure ‘real’ inequality levels. More importantly, since these regional price differences collapsed during the first half of the twentieth century, the trends in ‘real’ income inequality could be very different from those determined using ‘nominal’ income. Adjusting income levels for regional price levels shows a faster decline in inequality across the period from 1921 to 1941. We argue that this indicates the Great Leveling was a gradual process that began earlier than the 1940s. </p>
@@ -100,7 +100,7 @@ permalink: /research/
 <details class="accordion">
   <summary>
   <span>From Hume to Smith on the Common Law and English Liberty: A Comment on Paul Sagar</span><br>
-  <span><em>Econ Journal Watch</em>, 2022. </span>
+  <span style="color:#BA0C2F"><em>Econ Journal Watch</em>, 2022. </span>
   </summary>
  <p> <strong>Abstract:</strong> Paul Sagar, in his 2021 Political Theory article “On the Liberty of the English: Adam Smith’s Reply to Montesquieu and Hume,” discusses the role that the common law plays in Smith’s account of English liberty. In doing so he fashions something of a divide between Smith and David Hume with respect to their views on the development of liberty in England. As I see it, the divide between Smith and Hume is less than Sagar suggests, if it exists at all. I highlight Hume’s discussions of English common law in his History of England. In doing so, I make more apparent the shared sentiments between Hume and Smith on the importance of the legal system for the development of English liberty. Rather than replying to Hume, Smith should be seen as developing on Hume’s ideas and disseminating the results, by way of both his Glasgow classroom and The Wealth of Nations. Not once does Sagar cite volumes 1 and 2 of Hume’s History of England, though they contain much that dovetails with and no doubt fed Smith’s interpretations. </p>
   <p> Read the article <a href="https://econjwatch.org/articles/from-hume-to-smith-on-the-common-law-and-english-liberty-a-comment-on-paul-sagar">here</a>.</p>
@@ -110,7 +110,7 @@ permalink: /research/
 <details class="accordion">
   <summary>
   <span>Classical Liberals on ‘Social Justice’</span><br>
-  <span><em>Economic Affairs</em>, 2020. </span>
+  <span style="color:#BA0C2F"><em>Economic Affairs</em>, 2020. </span>
   </summary>
   <p>(with <a href="https://www.marcusshera.com">Marcus Shera</a>)</p>
   <p> <strong>Abstract:</strong> In the summer of 2019, The Independent Review published a symposium on classical liberalism and social justice. We give an overview and commentary on the symposium papers. Rather than adopting the term social justice, we recommend returning to the three senses of justice maintained by Adam Smith and explained by Daniel Klein (2019). We articulate and explore Smith’s tripartite understanding of justice in contrast with an understanding that gives place to the expression social justice. Smith’s tri-layered understanding is in the spirit of addressing the micro-foundations of macrophenomena, the spirit of Thomas Schelling’s Micromotives and Macrobehavior. </p>
