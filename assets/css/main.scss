@@ -7,3 +7,9 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+// Highlight the current page's link in the masthead navigation
+.greedy-nav .visible-links a.active,
+.greedy-nav .hidden-links a.active {
+  color: #BA0C2F;
+}
