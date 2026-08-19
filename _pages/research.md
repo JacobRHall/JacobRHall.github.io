@@ -25,16 +25,6 @@ permalink: /research/
 
 <details class="accordion">
   <summary>
-  <span>Itinerant Kings</span><br>
-  <span style="color:#BA0C2F"><em>Accepted, Journal of Law and Economics.</em></span>
-</summary>
-
-  <p> <strong>Abstract:</strong>  Rather than govern from a fixed capital, medieval European kings were itinerant. I argue that itinerant kingship was a rational coalition-building strategy employed by relatively weak rulers in the face of potentially violent elites. To empirically explore itinerant kingship, I introduce data on the daily location of the English king from 1199 to 1547. Utilizing genealogical data for feudal barons, I show that the king's itinerary targeted “key players” within the elite network to maintain political support. When the Early Modern “military revolution” increased the military power of the king vis-à-vis the elites, European kings adopted stationary governments. </p>
-      <p> Read the latest draft <a href="https://www.dropbox.com/scl/fi/yskqkzecswwvjte4xtshr/Hall_ItinerantKings.pdf?rlkey=uhe43s4jscrr9o52k62njpdhj&st=dluqqg25&dl=0">here</a>.</p>
-</details>
-
-<details class="accordion">
-  <summary>
   <span>Magna Carta</span><br>
     <span style="color:#BA0C2F"><em>Revise &amp; Resubmit, Journal of European Economic Association.</em></span>
 </summary>
@@ -67,6 +57,16 @@ permalink: /research/
 
 
 ## Refereed Publications
+
+<details class="accordion">
+  <summary>
+  <span>Itinerant Kings</span><br>
+  <span style="color:#BA0C2F"><em>Forthcoming, Journal of Law and Economics.</em></span>
+</summary>
+
+  <p> <strong>Abstract:</strong>  Rather than govern from a fixed capital, medieval European kings were itinerant. I argue that itinerant kingship was a rational coalition-building strategy employed by relatively weak rulers in the face of potentially violent elites. To empirically explore itinerant kingship, I introduce data on the daily location of the English king from 1199 to 1547. Utilizing genealogical data for feudal barons, I show that the king's itinerary targeted “key players” within the elite network to maintain political support. When the Early Modern “military revolution” increased the military power of the king vis-à-vis the elites, European kings adopted stationary governments. </p>
+      <p> Read the preprint <a href="/Users/jacobhall/Documents/GitHub/minimal-mistakes/assets/documents/Hall_ItinerantKings_JLEpreprint.pdf">here</a>.</p>
+</details>
 
 <details class="accordion">
   <summary>
