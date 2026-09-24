@@ -19,42 +19,6 @@ permalink: /research/
   </figure>
 </div>
 
-    
-    
-## Working Papers
-
-<details class="accordion">
-  <summary>
-  <span>Magna Carta</span><br>
-    <span style="color:#BA0C2F"><em>Revise &amp; Resubmit, Journal of European Economic Association.</em></span>
-</summary>
-  <p>(with <a href="https://mason.gmu.edu/~mkoyama2/About.html">Mark Koyama</a> and <a href="https://desireedesierto.com">Desiree Desierto</a>)</p>
-  <p><strong>Abstract:</strong>  Magna Carta, a pivotal moment in history, institutionalized constraints on royal power. As an ideal, Magna Carta prescribes an ‘inclusive’ power-sharing arrangement in which the ruler (king) has limited power and elites (barons) have equal rights. It was forged in a feudal environment and fought between a coalition of the king’s loyal barons and a coalition of rebel barons. We derive conditions under which Magna Carta occurs in equilibrium: when the king is extractive; when the initial distribution of power among barons is egalitarian; and when barons have large resources that cannot be easily appropriated by the king. Under these conditions, even the most powerful baron would be willing to change the status quo by leading a rebel coalition to fight for Magna Carta. To provide empirical support, we build a unique dataset of the universe of English barons, their family networks, and their baronies and resources between 1200-1270. </p>
-    <p> Read the latest draft <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918">here</a>.</p>
-</details>
-
-<details class="accordion">
-  <summary>Railroads and American Institutional Change</summary>
-  <p>(with <a href="https://slademendenhall.com">Slade Mendenhall</a>)</p>
-  <p> <strong>Abstract:</strong>  For roughly 800 years, "legislation" largely meant special legislation: narrow bills tailored to the demands of particular persons, firms, or property. General laws were greeted with suspicion. Today, the reverse is true: it is believed that laws, to be good, must be broad, and states have overwhelmingly banned special bills. This article reconceives of this history, understanding special legislation and the modern administrative state as substitutes. It argues that, contrary to the accompanying anti-corruption rhetoric, the refashioning of legislation as it had always existed was born of politicians' desire to create and extract rents made possible by the 19th-century transportation boom. The emergence of the administrative state and the growth of American state capacity are thus understood as the endogenous fruits of industrialization. </p>
-    <p> Read the latest draft <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">here</a>.</p>
-</details>
-
-<details class="accordion">
-  <summary>The King's French: The Political Economy of Language and National Identity</summary>
-  <p>(with <a href="https://alexntaylor.github.io">Alexander Taylor</a>)</p>
-  <p> <strong>Abstract:</strong> We investigate the impact of language policy on language choice, linguistic standardization, and national identity. In 1539, the <em>Ordinance of Villers-Cotterêts</em> made French the official administrative language of France. Using a geographic difference-in-discontinuities design exploiting the French border, we show that <em>Villers-Cotterêts</em> caused a dramatic shift away from Latin toward French in the larger print market and homogenized printed French. We then show that the ordinance fostered French national identity, as reflected in book titles, and that towns with larger ordinance-induced shifts toward vernacular printing expressed stronger national identity on the eve of the French Revolution.</p>
-    <p> Read the latest draft <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6740518"> here</a>.</p>
-</details>
-
-## Selected Works in Progress
-
-<details class="accordion">
-  <summary>Islam, Trade, and the Rise of Northwestern Europe</summary>
-  <p>(with <a href="https://www.marcusshera.com">Marcus Shera</a>)</p>
-  <p> <strong>Working Abstract:</strong> The population of the ancient world was centered around the Mediterranean Sea. But in the eighth century, the new religion of Islam spread rapidly, achieving spiritual and political dominance in the Middle East, North Africa, and the Iberian peninsula. Religious, political, linguistic, and legal differences between Muslims and the existing Christian kingdoms increased transaction costs for trade between the regions. Locations on the Mediterranean coast, formerly well positioned for trade with Egypt, Syria, Anatolia, and the Levant lost trade potential relative to places in Europe that could take advantage of North Sea trade. We use a differences-in-differences approach to show that European urban population with greater market access to the Islamic world shrinks after AD 700 relative to Northern population. </p>
-</details>
-
 
 ## Refereed Publications
 
@@ -117,6 +81,39 @@ permalink: /research/
   <p> <strong>Abstract:</strong> In the summer of 2019, The Independent Review published a symposium on classical liberalism and social justice. We give an overview and commentary on the symposium papers. Rather than adopting the term social justice, we recommend returning to the three senses of justice maintained by Adam Smith and explained by Daniel Klein (2019). We articulate and explore Smith’s tripartite understanding of justice in contrast with an understanding that gives place to the expression social justice. Smith’s tri-layered understanding is in the spirit of addressing the micro-foundations of macrophenomena, the spirit of Thomas Schelling’s Micromotives and Macrobehavior. </p>
   <p> Read the article <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecaf.12428">here</a>.</p>
 </details>
+
+## Working Papers & Works in Progress
+
+<details class="accordion">
+  <summary>
+  <span>Magna Carta</span><br>
+    <span style="color:#BA0C2F"><em>Revise &amp; Resubmit, Journal of European Economic Association.</em></span>
+</summary>
+  <p>(with <a href="https://mason.gmu.edu/~mkoyama2/About.html">Mark Koyama</a> and <a href="https://desireedesierto.com">Desiree Desierto</a>)</p>
+  <p><strong>Abstract:</strong>  Magna Carta, a pivotal moment in history, institutionalized constraints on royal power. As an ideal, Magna Carta prescribes an ‘inclusive’ power-sharing arrangement in which the ruler (king) has limited power and elites (barons) have equal rights. It was forged in a feudal environment and fought between a coalition of the king’s loyal barons and a coalition of rebel barons. We derive conditions under which Magna Carta occurs in equilibrium: when the king is extractive; when the initial distribution of power among barons is egalitarian; and when barons have large resources that cannot be easily appropriated by the king. Under these conditions, even the most powerful baron would be willing to change the status quo by leading a rebel coalition to fight for Magna Carta. To provide empirical support, we build a unique dataset of the universe of English barons, their family networks, and their baronies and resources between 1200-1270. </p>
+    <p> Read the latest draft <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4503918">here</a>.</p>
+</details>
+
+<details class="accordion">
+  <summary>Railroads and American Institutional Change</summary>
+  <p>(with <a href="https://slademendenhall.com">Slade Mendenhall</a>)</p>
+  <p> <strong>Abstract:</strong>  For roughly 800 years, "legislation" largely meant special legislation: narrow bills tailored to the demands of particular persons, firms, or property. General laws were greeted with suspicion. Today, the reverse is true: it is believed that laws, to be good, must be broad, and states have overwhelmingly banned special bills. This article reconceives of this history, understanding special legislation and the modern administrative state as substitutes. It argues that, contrary to the accompanying anti-corruption rhetoric, the refashioning of legislation as it had always existed was born of politicians' desire to create and extract rents made possible by the 19th-century transportation boom. The emergence of the administrative state and the growth of American state capacity are thus understood as the endogenous fruits of industrialization. </p>
+    <p> Read the latest draft <a href="/assets/documents/Mendenhall_Hall_SpecialLegislation.pdf">here</a>.</p>
+</details>
+
+<details class="accordion">
+  <summary>The King's French: The Political Economy of Language and National Identity</summary>
+  <p>(with <a href="https://alexntaylor.github.io">Alexander Taylor</a>)</p>
+  <p> <strong>Abstract:</strong> We investigate the impact of language policy on language choice, linguistic standardization, and national identity. In 1539, the <em>Ordinance of Villers-Cotterêts</em> made French the official administrative language of France. Using a geographic difference-in-discontinuities design exploiting the French border, we show that <em>Villers-Cotterêts</em> caused a dramatic shift away from Latin toward French in the larger print market and homogenized printed French. We then show that the ordinance fostered French national identity, as reflected in book titles, and that towns with larger ordinance-induced shifts toward vernacular printing expressed stronger national identity on the eve of the French Revolution.</p>
+    <p> Read the latest draft <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6740518"> here</a>.</p>
+</details>
+
+<details class="accordion">
+  <summary>Islam, Trade, and the Rise of Northwestern Europe</summary>
+  <p>(with <a href="https://www.marcusshera.com">Marcus Shera</a>)</p>
+  <p> <strong>Working Abstract:</strong> The population of the ancient world was centered around the Mediterranean Sea. But in the eighth century, the new religion of Islam spread rapidly, achieving spiritual and political dominance in the Middle East, North Africa, and the Iberian peninsula. Religious, political, linguistic, and legal differences between Muslims and the existing Christian kingdoms increased transaction costs for trade between the regions. Locations on the Mediterranean coast, formerly well positioned for trade with Egypt, Syria, Anatolia, and the Levant lost trade potential relative to places in Europe that could take advantage of North Sea trade. We use a differences-in-differences approach to show that European urban population with greater market access to the Islamic world shrinks after AD 700 relative to Northern population. </p>
+</details>
+
 
 ## For the General Reader
 
