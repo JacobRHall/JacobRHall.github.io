@@ -20,7 +20,7 @@ permalink: /research/
 </div>
 
 
-## Refereed Publications
+## Publications
 
 <details class="accordion">
   <summary>
